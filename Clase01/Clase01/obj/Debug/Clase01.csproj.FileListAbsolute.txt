@@ -1,0 +1,7 @@
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Clase01\Clase01\obj\Debug\Clase01.csprojAssemblyReference.cache
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Clase01\Clase01\obj\Debug\Clase01.csproj.CoreCompileInputs.cache
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Clase01\Clase01\bin\Debug\Clase01.exe.config
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Clase01\Clase01\bin\Debug\Clase01.exe
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Clase01\Clase01\bin\Debug\Clase01.pdb
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Clase01\Clase01\obj\Debug\Clase01.exe
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Clase01\Clase01\obj\Debug\Clase01.pdb

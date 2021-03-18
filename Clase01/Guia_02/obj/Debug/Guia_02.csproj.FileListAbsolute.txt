@@ -1,0 +1,7 @@
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Clase01\Guia_02\bin\Debug\Guia_02.exe.config
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Clase01\Guia_02\bin\Debug\Guia_02.exe
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Clase01\Guia_02\bin\Debug\Guia_02.pdb
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Clase01\Guia_02\obj\Debug\Guia_02.csproj.CoreCompileInputs.cache
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Clase01\Guia_02\obj\Debug\Guia_02.exe
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Clase01\Guia_02\obj\Debug\Guia_02.pdb
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Clase01\Guia_02\obj\Debug\Guia_02.csprojAssemblyReference.cache
