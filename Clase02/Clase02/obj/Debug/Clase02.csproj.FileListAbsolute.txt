@@ -1,0 +1,7 @@
+C:\Users\yamil\source\repos\Clase02\Clase02\bin\Debug\Clase02.exe.config
+C:\Users\yamil\source\repos\Clase02\Clase02\bin\Debug\Clase02.exe
+C:\Users\yamil\source\repos\Clase02\Clase02\bin\Debug\Clase02.pdb
+C:\Users\yamil\source\repos\Clase02\Clase02\obj\Debug\Clase02.csprojAssemblyReference.cache
+C:\Users\yamil\source\repos\Clase02\Clase02\obj\Debug\Clase02.csproj.CoreCompileInputs.cache
+C:\Users\yamil\source\repos\Clase02\Clase02\obj\Debug\Clase02.exe
+C:\Users\yamil\source\repos\Clase02\Clase02\obj\Debug\Clase02.pdb

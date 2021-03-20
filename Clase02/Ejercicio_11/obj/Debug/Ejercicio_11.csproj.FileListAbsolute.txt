@@ -1,0 +1,6 @@
+C:\Users\yamil\source\repos\Clase02\Ejercicio_11\bin\Debug\Ejercicio_11.exe.config
+C:\Users\yamil\source\repos\Clase02\Ejercicio_11\bin\Debug\Ejercicio_11.exe
+C:\Users\yamil\source\repos\Clase02\Ejercicio_11\bin\Debug\Ejercicio_11.pdb
+C:\Users\yamil\source\repos\Clase02\Ejercicio_11\obj\Debug\Ejercicio_11.csproj.CoreCompileInputs.cache
+C:\Users\yamil\source\repos\Clase02\Ejercicio_11\obj\Debug\Ejercicio_11.exe
+C:\Users\yamil\source\repos\Clase02\Ejercicio_11\obj\Debug\Ejercicio_11.pdb
