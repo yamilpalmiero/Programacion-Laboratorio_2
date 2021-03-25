@@ -17,12 +17,28 @@ namespace Ejercicio_01
 
             Console.WriteLine("Ingrese cinco numeros:");
             
-            for(int i=0; i < 5; i++)
+            for(int i=1; i <= 5; i++)
             {
-                Console.Write("i° numero:");
-                numero = int.Parse(Console.Read());
+                Console.Write("{0}° numero:",i);
+                numero = int.Parse(Console.ReadLine());
 
+                if (numero < min)
+                {
+                    min = numero;
+                }
+                if (numero > max)
+                {
+                    max = numero;
+                }
+
+                acumulador += numero;
             }
+
+            Console.WriteLine("El maximo es: {0}", max);
+            Console.WriteLine("El minimo es: {0}", min);
+            Console.WriteLine("El promedio es: {0}", acumulador/5);
+
+            Console.ReadKey();
         }
     }
 }

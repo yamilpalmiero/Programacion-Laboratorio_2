@@ -1,0 +1,7 @@
+C:\Users\yamil\source\repos\Ejercicio_02\bin\Debug\Ejercicio_02.exe.config
+C:\Users\yamil\source\repos\Ejercicio_02\bin\Debug\Ejercicio_02.exe
+C:\Users\yamil\source\repos\Ejercicio_02\bin\Debug\Ejercicio_02.pdb
+C:\Users\yamil\source\repos\Ejercicio_02\obj\Debug\Ejercicio_02.csprojAssemblyReference.cache
+C:\Users\yamil\source\repos\Ejercicio_02\obj\Debug\Ejercicio_02.csproj.CoreCompileInputs.cache
+C:\Users\yamil\source\repos\Ejercicio_02\obj\Debug\Ejercicio_02.exe
+C:\Users\yamil\source\repos\Ejercicio_02\obj\Debug\Ejercicio_02.pdb
