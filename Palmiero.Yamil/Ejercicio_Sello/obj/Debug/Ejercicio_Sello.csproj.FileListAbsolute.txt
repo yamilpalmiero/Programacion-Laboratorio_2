@@ -1,0 +1,7 @@
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Palmiero.Yamil\Ejercicio_Sello\bin\Debug\Ejercicio_Sello.exe.config
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Palmiero.Yamil\Ejercicio_Sello\bin\Debug\Ejercicio_Sello.exe
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Palmiero.Yamil\Ejercicio_Sello\bin\Debug\Ejercicio_Sello.pdb
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Palmiero.Yamil\Ejercicio_Sello\obj\Debug\Ejercicio_Sello.csprojAssemblyReference.cache
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Palmiero.Yamil\Ejercicio_Sello\obj\Debug\Ejercicio_Sello.csproj.CoreCompileInputs.cache
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Palmiero.Yamil\Ejercicio_Sello\obj\Debug\Ejercicio_Sello.exe
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Palmiero.Yamil\Ejercicio_Sello\obj\Debug\Ejercicio_Sello.pdb
