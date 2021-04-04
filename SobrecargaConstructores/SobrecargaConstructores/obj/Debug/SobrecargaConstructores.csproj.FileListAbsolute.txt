@@ -1,0 +1,7 @@
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\SobrecargaConstructores\SobrecargaConstructores\obj\Debug\SobrecargaConstructores.csprojAssemblyReference.cache
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\SobrecargaConstructores\SobrecargaConstructores\obj\Debug\SobrecargaConstructores.csproj.CoreCompileInputs.cache
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\SobrecargaConstructores\SobrecargaConstructores\bin\Debug\SobrecargaConstructores.exe.config
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\SobrecargaConstructores\SobrecargaConstructores\bin\Debug\SobrecargaConstructores.exe
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\SobrecargaConstructores\SobrecargaConstructores\bin\Debug\SobrecargaConstructores.pdb
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\SobrecargaConstructores\SobrecargaConstructores\obj\Debug\SobrecargaConstructores.exe
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\SobrecargaConstructores\SobrecargaConstructores\obj\Debug\SobrecargaConstructores.pdb
