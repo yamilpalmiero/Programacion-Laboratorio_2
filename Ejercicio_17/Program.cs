@@ -12,6 +12,8 @@ namespace Ejercicio_17
         {
             Console.Title = "Ejercicio_17";
 
+            Boligrafo boligrafoUno = new Boligrafo(100, ConsoleColor.Blue);
+            Boligrafo boligrafoDos = new Boligrafo(50, ConsoleColor.Red);
         }
     }
 }
