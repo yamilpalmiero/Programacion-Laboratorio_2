@@ -56,6 +56,31 @@ namespace Ejercicio_17
         {
             this.tinta = cantidadTintaMaxima;
         }
+        public bool Pintar(short gasto, out string dibujo)
+        {
+            dibujo = "";
+            bool pudoPintar = false;
+            short tintaDisponible = this.tinta;
+
+            if (tintaDisponible > gasto)
+            {
+                this.tinta = (short)(this.tinta - gasto);
+                for (int i = 0; i < this.tinta; i++)
+                {
+                    dibujo += '*';
+                }
+                pudoPintar = true;
+            }
+            else
+            {
+                for (int i = 0; i < this.tinta; i++)
+                {
+                    dibujo += '*';
+                }
+            }
+
+            return pudoPintar;
+        }
         #endregion
     }
 }
