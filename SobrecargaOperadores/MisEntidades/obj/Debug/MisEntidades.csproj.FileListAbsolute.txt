@@ -1,0 +1,6 @@
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\SobrecargaOperadores\MisEntidades\bin\Debug\MisEntidades.dll
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\SobrecargaOperadores\MisEntidades\bin\Debug\MisEntidades.pdb
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\SobrecargaOperadores\MisEntidades\obj\Debug\MisEntidades.csprojAssemblyReference.cache
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\SobrecargaOperadores\MisEntidades\obj\Debug\MisEntidades.csproj.CoreCompileInputs.cache
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\SobrecargaOperadores\MisEntidades\obj\Debug\MisEntidades.dll
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\SobrecargaOperadores\MisEntidades\obj\Debug\MisEntidades.pdb
