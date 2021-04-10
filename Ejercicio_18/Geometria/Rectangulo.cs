@@ -8,5 +8,17 @@ namespace Geometria
 {
     public class Rectangulo
     {
+        #region Atributos
+        private Punto vertice1;
+        private Punto vertice2;
+        private Punto vertice3;
+        private Punto vertice4;
+        private float area;
+        private float perimetro;
+        #endregion
+
+        #region Metodos
+
+        #endregion
     }
 }
