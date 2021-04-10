@@ -12,8 +12,22 @@ namespace Ejercicio_17
         {
             Console.Title = "Ejercicio_17";
 
-            Boligrafo boligrafoUno = new Boligrafo(100, ConsoleColor.Blue);
-            Boligrafo boligrafoDos = new Boligrafo(50, ConsoleColor.Red);
+            Boligrafo azul = new Boligrafo(100, ConsoleColor.Blue);
+            Boligrafo rojo = new Boligrafo(50, ConsoleColor.Red);
+            string dibujo;
+
+            rojo.Pintar(49, out dibujo);
+            rojo.Pintar(10, out dibujo);
+
+            Console.ForegroundColor = rojo.GetColor();
+            Console.WriteLine(dibujo);
+
+            rojo.Recargar();
+            rojo.Pintar(10, out dibujo);
+
+            Console.WriteLine(dibujo);
+
+            Console.ReadKey();
         }
     }
 }

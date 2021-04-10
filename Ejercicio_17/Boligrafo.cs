@@ -9,7 +9,7 @@ namespace Ejercicio_17
     class Boligrafo
     {
         #region Atributos
-        public static short cantidadTintaMaxima = 100;
+        public const short cantidadTintaMaxima = 100;
         private ConsoleColor color;
         private short tinta;
         #endregion
@@ -33,53 +33,30 @@ namespace Ejercicio_17
         }
         private void SetTinta(short tinta)
         {
-
-            if (tinta > 0)
-            {
-                this.tinta += tinta;
-                while (this.tinta > cantidadTintaMaxima)
-                {
-                    Console.WriteLine("Error, el nivel de tinta no puede pasar de 100");
-                }
-            }
+            if (this.tinta + tinta <= 0)
+                this.tinta = 0;
+            else if (this.tinta + tinta >= cantidadTintaMaxima)
+                this.tinta = cantidadTintaMaxima;
             else
-            {
-                this.tinta -= tinta;
-                while (this.tinta < 0)
-                {
-                    Console.WriteLine("Error, el nivel de tinta no puede bajar de 0");
-                }
-            }
-
+                this.tinta += tinta;
         }
         public void Recargar()
         {
-            this.tinta = cantidadTintaMaxima;
+            SetTinta(cantidadTintaMaxima);
         }
         public bool Pintar(short gasto, out string dibujo)
         {
             dibujo = "";
-            bool pudoPintar = false;
-            short tintaDisponible = this.tinta;
+            int gastoRealizado = gasto < tinta ? gasto : tinta;
 
-            if (tintaDisponible > gasto)
+            SetTinta((short)-gastoRealizado);
+
+            for (int i = 0; i < gastoRealizado; i++)
             {
-                this.tinta = (short)(this.tinta - gasto);
-                for (int i = 0; i < this.tinta; i++)
-                {
-                    dibujo += '*';
-                }
-                pudoPintar = true;
-            }
-            else
-            {
-                for (int i = 0; i < this.tinta; i++)
-                {
-                    dibujo += '*';
-                }
+                dibujo += "*";
             }
 
-            return pudoPintar;
+            return gasto <= tinta ? true : false;
         }
         #endregion
     }
