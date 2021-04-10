@@ -10,26 +10,46 @@ namespace Ejercicio_12
     {
         static void Main(string[] args)
         {
-            char c, seguir;
+            Console.Title = "Ejercicio_12";
+
+            char seguir;
             int numero, sumador = 0;
 
             do
             {
-                Console.WriteLine("Ingrese numero: ");
-                numero = int.Parse(Console.ReadLine());
+                numero = pedirEnteroPositivo("\nIngrese numero:", "Error, reingrese:");
                 sumador += numero;
-                Console.WriteLine("Continuar? S/N: ");
-                c = char.Parse(Console.ReadLine());
+                seguir = pedirChar("Seguir? S/N: ");
 
-                if (ValidarRespuesta.ValidarS_N(c))//Si la respuesta no es S o N devuelve false y no entra el if
-                {
-                    seguir = c;
-                }
+            } while (ValidarRespuesta.ValidarS_N(seguir));//Si ponen 's' o 'S' devuelve true y sigue pidiendo numeros
 
-            } while (c != 'N');
+            Console.WriteLine("\nLa suma total es: {0}", sumador);
 
-            Console.WriteLine("La suma total es: {0}", sumador);
             Console.ReadKey();
+
+            #region Metodos
+            // PEDIR STRING
+            char pedirChar(String mensaje)
+            {
+                Console.WriteLine(mensaje);
+                return Console.ReadKey().KeyChar;
+            }
+            // PEDIR INT
+            int pedirEnteroPositivo(String mensaje, String mensajeError)
+            {
+                int num;
+                Console.WriteLine(mensaje);
+                while (true)
+                {
+                    if (!int.TryParse(Console.ReadLine(), out num) || num <= 0)
+                    {
+                        Console.WriteLine(mensajeError);
+                    }
+                    else
+                        return num;
+                }
+            }
+            #endregion
         }
     }
 }

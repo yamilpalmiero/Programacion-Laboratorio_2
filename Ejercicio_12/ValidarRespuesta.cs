@@ -10,14 +10,10 @@ namespace Ejercicio_12
     {
         public static bool ValidarS_N(char c)
         {
-            if (c == 'S' || c == 'N')
-            {
+            if (Char.ToLower(c).Equals('s'))
                 return true;
-            }
-            else
-            {
-                return false;
-            }
+
+            return false;
         }
     }
 }
