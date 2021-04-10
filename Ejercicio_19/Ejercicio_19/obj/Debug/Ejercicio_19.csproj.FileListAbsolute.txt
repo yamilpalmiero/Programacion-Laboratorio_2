@@ -1,0 +1,7 @@
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Ejercicio_19\Ejercicio_19\bin\Debug\Ejercicio_19.exe.config
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Ejercicio_19\Ejercicio_19\bin\Debug\Ejercicio_19.exe
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Ejercicio_19\Ejercicio_19\bin\Debug\Ejercicio_19.pdb
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Ejercicio_19\Ejercicio_19\obj\Debug\Ejercicio_19.csprojAssemblyReference.cache
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Ejercicio_19\Ejercicio_19\obj\Debug\Ejercicio_19.csproj.CoreCompileInputs.cache
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Ejercicio_19\Ejercicio_19\obj\Debug\Ejercicio_19.exe
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Ejercicio_19\Ejercicio_19\obj\Debug\Ejercicio_19.pdb
