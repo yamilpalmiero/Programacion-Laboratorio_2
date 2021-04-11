@@ -1,0 +1,6 @@
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Ejercicios_guia\Ejercicio_20\Billetes\bin\Debug\Billetes.dll
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Ejercicios_guia\Ejercicio_20\Billetes\bin\Debug\Billetes.pdb
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Ejercicios_guia\Ejercicio_20\Billetes\obj\Debug\Billetes.csprojAssemblyReference.cache
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Ejercicios_guia\Ejercicio_20\Billetes\obj\Debug\Billetes.csproj.CoreCompileInputs.cache
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Ejercicios_guia\Ejercicio_20\Billetes\obj\Debug\Billetes.dll
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Ejercicios_guia\Ejercicio_20\Billetes\obj\Debug\Billetes.pdb
