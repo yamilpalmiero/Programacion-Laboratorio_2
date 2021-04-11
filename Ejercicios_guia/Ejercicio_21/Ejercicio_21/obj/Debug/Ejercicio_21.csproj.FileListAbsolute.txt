@@ -1,0 +1,10 @@
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Ejercicios_guia\Ejercicio_21\Ejercicio_21\bin\Debug\Ejercicio_21.exe.config
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Ejercicios_guia\Ejercicio_21\Ejercicio_21\bin\Debug\Ejercicio_21.exe
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Ejercicios_guia\Ejercicio_21\Ejercicio_21\bin\Debug\Ejercicio_21.pdb
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Ejercicios_guia\Ejercicio_21\Ejercicio_21\bin\Debug\UnidadesTemperatura.dll
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Ejercicios_guia\Ejercicio_21\Ejercicio_21\bin\Debug\UnidadesTemperatura.pdb
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Ejercicios_guia\Ejercicio_21\Ejercicio_21\obj\Debug\Ejercicio_21.csprojAssemblyReference.cache
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Ejercicios_guia\Ejercicio_21\Ejercicio_21\obj\Debug\Ejercicio_21.csproj.CoreCompileInputs.cache
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Ejercicios_guia\Ejercicio_21\Ejercicio_21\obj\Debug\Ejercicio_21.csproj.CopyComplete
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Ejercicios_guia\Ejercicio_21\Ejercicio_21\obj\Debug\Ejercicio_21.exe
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Ejercicios_guia\Ejercicio_21\Ejercicio_21\obj\Debug\Ejercicio_21.pdb

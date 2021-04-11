@@ -1,0 +1,6 @@
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Ejercicios_guia\Ejercicio_21\UnidadesTemperatura\bin\Debug\UnidadesTemperatura.dll
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Ejercicios_guia\Ejercicio_21\UnidadesTemperatura\bin\Debug\UnidadesTemperatura.pdb
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Ejercicios_guia\Ejercicio_21\UnidadesTemperatura\obj\Debug\UnidadesTemperatura.csprojAssemblyReference.cache
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Ejercicios_guia\Ejercicio_21\UnidadesTemperatura\obj\Debug\UnidadesTemperatura.csproj.CoreCompileInputs.cache
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Ejercicios_guia\Ejercicio_21\UnidadesTemperatura\obj\Debug\UnidadesTemperatura.dll
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Ejercicios_guia\Ejercicio_21\UnidadesTemperatura\obj\Debug\UnidadesTemperatura.pdb
