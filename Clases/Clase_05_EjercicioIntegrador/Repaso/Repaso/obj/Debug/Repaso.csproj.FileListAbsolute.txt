@@ -1,0 +1,10 @@
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Clases\Clase_05_EjercicioIntegrador\Repaso\Repaso\bin\Debug\Repaso.exe.config
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Clases\Clase_05_EjercicioIntegrador\Repaso\Repaso\bin\Debug\Repaso.exe
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Clases\Clase_05_EjercicioIntegrador\Repaso\Repaso\bin\Debug\Repaso.pdb
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Clases\Clase_05_EjercicioIntegrador\Repaso\Repaso\bin\Debug\Clases.dll
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Clases\Clase_05_EjercicioIntegrador\Repaso\Repaso\bin\Debug\Clases.pdb
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Clases\Clase_05_EjercicioIntegrador\Repaso\Repaso\obj\Debug\Repaso.csprojAssemblyReference.cache
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Clases\Clase_05_EjercicioIntegrador\Repaso\Repaso\obj\Debug\Repaso.csproj.CoreCompileInputs.cache
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Clases\Clase_05_EjercicioIntegrador\Repaso\Repaso\obj\Debug\Repaso.csproj.CopyComplete
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Clases\Clase_05_EjercicioIntegrador\Repaso\Repaso\obj\Debug\Repaso.exe
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Clases\Clase_05_EjercicioIntegrador\Repaso\Repaso\obj\Debug\Repaso.pdb
