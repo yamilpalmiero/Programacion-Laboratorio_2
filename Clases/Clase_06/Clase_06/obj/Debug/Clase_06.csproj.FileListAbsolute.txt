@@ -1,0 +1,10 @@
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Clases\Clase_06\Clase_06\bin\Debug\Clase_06.exe.config
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Clases\Clase_06\Clase_06\bin\Debug\Clase_06.exe
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Clases\Clase_06\Clase_06\bin\Debug\Clase_06.pdb
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Clases\Clase_06\Clase_06\obj\Debug\Clase_06.csprojAssemblyReference.cache
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Clases\Clase_06\Clase_06\obj\Debug\Clase_06.Form1.resources
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Clases\Clase_06\Clase_06\obj\Debug\Clase_06.Properties.Resources.resources
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Clases\Clase_06\Clase_06\obj\Debug\Clase_06.csproj.GenerateResource.cache
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Clases\Clase_06\Clase_06\obj\Debug\Clase_06.csproj.CoreCompileInputs.cache
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Clases\Clase_06\Clase_06\obj\Debug\Clase_06.exe
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Clases\Clase_06\Clase_06\obj\Debug\Clase_06.pdb
