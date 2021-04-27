@@ -1,0 +1,6 @@
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Ejercicios_guia\Ejercicio_23\Moneda\bin\Debug\Moneda.dll
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Ejercicios_guia\Ejercicio_23\Moneda\bin\Debug\Moneda.pdb
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Ejercicios_guia\Ejercicio_23\Moneda\obj\Debug\Moneda.csprojAssemblyReference.cache
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Ejercicios_guia\Ejercicio_23\Moneda\obj\Debug\Moneda.csproj.CoreCompileInputs.cache
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Ejercicios_guia\Ejercicio_23\Moneda\obj\Debug\Moneda.dll
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Ejercicios_guia\Ejercicio_23\Moneda\obj\Debug\Moneda.pdb
