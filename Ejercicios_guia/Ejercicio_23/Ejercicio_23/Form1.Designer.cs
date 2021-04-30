@@ -30,6 +30,7 @@ namespace Ejercicio_23
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmMonedas));
             this.lblCotizacion = new System.Windows.Forms.Label();
             this.lblEuro = new System.Windows.Forms.Label();
             this.lblDolar = new System.Windows.Forms.Label();
@@ -41,7 +42,6 @@ namespace Ejercicio_23
             this.btnConvertEuro = new System.Windows.Forms.Button();
             this.btnConvertDolar = new System.Windows.Forms.Button();
             this.btnConvertPeso = new System.Windows.Forms.Button();
-            this.btnLockCotizacion = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // lblCotizacion
@@ -107,9 +107,10 @@ namespace Ejercicio_23
             // 
             // imageList
             // 
-            this.imageList.ColorDepth = System.Windows.Forms.ColorDepth.Depth32Bit;
-            this.imageList.ImageSize = new System.Drawing.Size(16, 16);
+            this.imageList.ImageStream = ((System.Windows.Forms.ImageListStreamer)(resources.GetObject("imageList.ImageStream")));
             this.imageList.TransparentColor = System.Drawing.Color.Transparent;
+            this.imageList.Images.SetKeyName(0, "candado_cerrado.png");
+            this.imageList.Images.SetKeyName(1, "candado_abierto.png");
             // 
             // btnConvertEuro
             // 
@@ -138,23 +139,11 @@ namespace Ejercicio_23
             this.btnConvertPeso.Text = "->";
             this.btnConvertPeso.UseVisualStyleBackColor = true;
             // 
-            // btnLockCotizacion
-            // 
-            this.btnLockCotizacion.AutoEllipsis = true;
-            this.btnLockCotizacion.ImageList = this.imageList;
-            this.btnLockCotizacion.Location = new System.Drawing.Point(293, 51);
-            this.btnLockCotizacion.Name = "btnLockCotizacion";
-            this.btnLockCotizacion.Size = new System.Drawing.Size(87, 44);
-            this.btnLockCotizacion.TabIndex = 10;
-            this.btnLockCotizacion.Text = "button1";
-            this.btnLockCotizacion.UseVisualStyleBackColor = true;
-            // 
             // FrmMonedas
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 296);
-            this.Controls.Add(this.btnLockCotizacion);
             this.Controls.Add(this.btnConvertPeso);
             this.Controls.Add(this.btnConvertDolar);
             this.Controls.Add(this.btnConvertEuro);
@@ -189,7 +178,6 @@ namespace Ejercicio_23
         private System.Windows.Forms.Button btnConvertEuro;
         private System.Windows.Forms.Button btnConvertDolar;
         private System.Windows.Forms.Button btnConvertPeso;
-        private System.Windows.Forms.Button btnLockCotizacion;
     }
 }
 

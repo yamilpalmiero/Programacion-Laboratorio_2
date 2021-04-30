@@ -1,0 +1,6 @@
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Clases\Clase_10\ClasesAbstractas\bin\Debug\ClasesAbstractas.dll
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Clases\Clase_10\ClasesAbstractas\bin\Debug\ClasesAbstractas.pdb
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Clases\Clase_10\ClasesAbstractas\obj\Debug\ClasesAbstractas.csprojAssemblyReference.cache
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Clases\Clase_10\ClasesAbstractas\obj\Debug\ClasesAbstractas.csproj.CoreCompileInputs.cache
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Clases\Clase_10\ClasesAbstractas\obj\Debug\ClasesAbstractas.dll
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Clases\Clase_10\ClasesAbstractas\obj\Debug\ClasesAbstractas.pdb
