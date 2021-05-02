@@ -1,0 +1,10 @@
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\Objetos\Objetos\bin\Debug\Objetos.exe.config
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\Objetos\Objetos\bin\Debug\Objetos.exe
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\Objetos\Objetos\bin\Debug\Objetos.pdb
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\Objetos\Objetos\bin\Debug\Biblioteca.dll
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\Objetos\Objetos\bin\Debug\Biblioteca.pdb
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\Objetos\Objetos\obj\Debug\Objetos.csprojAssemblyReference.cache
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\Objetos\Objetos\obj\Debug\Objetos.csproj.CoreCompileInputs.cache
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\Objetos\Objetos\obj\Debug\Objetos.csproj.CopyComplete
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\Objetos\Objetos\obj\Debug\Objetos.exe
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\Objetos\Objetos\obj\Debug\Objetos.pdb

@@ -1,0 +1,6 @@
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\Objetos\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\Objetos\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\Objetos\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\Objetos\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\Objetos\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\Objetos\Biblioteca\obj\Debug\Biblioteca.pdb
