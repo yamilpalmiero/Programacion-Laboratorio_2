@@ -1,0 +1,10 @@
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\Repaso\Producto\bin\Debug\Producto.exe.config
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\Repaso\Producto\bin\Debug\Producto.exe
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\Repaso\Producto\bin\Debug\Producto.pdb
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\Repaso\Producto\bin\Debug\Entidades.dll
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\Repaso\Producto\bin\Debug\Entidades.pdb
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\Repaso\Producto\obj\Debug\TestEstante.csprojAssemblyReference.cache
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\Repaso\Producto\obj\Debug\TestEstante.csproj.CoreCompileInputs.cache
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\Repaso\Producto\obj\Debug\TestEstante.csproj.CopyComplete
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\Repaso\Producto\obj\Debug\Producto.exe
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\Repaso\Producto\obj\Debug\Producto.pdb
