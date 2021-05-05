@@ -1,0 +1,11 @@
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\Ejemplo_Clase_06\Vista\bin\Debug\Vista.exe.config
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\Ejemplo_Clase_06\Vista\bin\Debug\Vista.exe
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\Ejemplo_Clase_06\Vista\bin\Debug\Vista.pdb
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\Ejemplo_Clase_06\Vista\obj\Debug\Vista.csprojAssemblyReference.cache
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\Ejemplo_Clase_06\Vista\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\Ejemplo_Clase_06\Vista\obj\Debug\Vista.csproj.GenerateResource.cache
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\Ejemplo_Clase_06\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\Ejemplo_Clase_06\Vista\obj\Debug\Vista.exe
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\Ejemplo_Clase_06\Vista\obj\Debug\Vista.pdb
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\Ejemplo_Clase_06\Vista\obj\Debug\Vista.frmFormPrincipal.resources
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\Ejemplo_Clase_06\Vista\obj\Debug\Vista.frmMensajeForm.resources
