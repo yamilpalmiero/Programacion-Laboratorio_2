@@ -1,0 +1,10 @@
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\Herencia\Herencia\bin\Debug\Herencia.exe.config
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\Herencia\Herencia\bin\Debug\Herencia.exe
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\Herencia\Herencia\bin\Debug\Herencia.pdb
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\Herencia\Herencia\bin\Debug\Entidades.dll
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\Herencia\Herencia\bin\Debug\Entidades.pdb
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\Herencia\Herencia\obj\Debug\Herencia.csprojAssemblyReference.cache
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\Herencia\Herencia\obj\Debug\Herencia.csproj.CoreCompileInputs.cache
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\Herencia\Herencia\obj\Debug\Herencia.csproj.CopyComplete
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\Herencia\Herencia\obj\Debug\Herencia.exe
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\Herencia\Herencia\obj\Debug\Herencia.pdb
