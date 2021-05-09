@@ -1,0 +1,10 @@
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\Abstraccion\Abstraccion\obj\Debug\Abstraccion.csprojAssemblyReference.cache
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\Abstraccion\Abstraccion\obj\Debug\Abstraccion.csproj.CoreCompileInputs.cache
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\Abstraccion\Abstraccion\bin\Debug\Abstraccion.exe.config
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\Abstraccion\Abstraccion\bin\Debug\Abstraccion.exe
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\Abstraccion\Abstraccion\bin\Debug\Abstraccion.pdb
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\Abstraccion\Abstraccion\bin\Debug\Entidades.dll
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\Abstraccion\Abstraccion\bin\Debug\Entidades.pdb
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\Abstraccion\Abstraccion\obj\Debug\Abstraccion.csproj.CopyComplete
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\Abstraccion\Abstraccion\obj\Debug\Abstraccion.exe
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\Abstraccion\Abstraccion\obj\Debug\Abstraccion.pdb
