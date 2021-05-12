@@ -44,7 +44,7 @@ namespace ComiqueriaLogic
         {
             this.ventas.Add(new Venta(producto, cantidad));
         }
-        public void Vender(Producto producto)
+        public void Vender(Producto producto)//Sobrecarga del metodo Vender
         {
             this.Vender(producto, 1);
         }
