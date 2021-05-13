@@ -1,0 +1,7 @@
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\PPProgramacion\PPProgramacion\bin\Debug\PPProgramacion.exe.config
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\PPProgramacion\PPProgramacion\bin\Debug\PPProgramacion.exe
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\PPProgramacion\PPProgramacion\bin\Debug\PPProgramacion.pdb
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\PPProgramacion\PPProgramacion\obj\Debug\PPProgramacion.csprojAssemblyReference.cache
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\PPProgramacion\PPProgramacion\obj\Debug\PPProgramacion.csproj.CoreCompileInputs.cache
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\PPProgramacion\PPProgramacion\obj\Debug\PPProgramacion.exe
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\PPProgramacion\PPProgramacion\obj\Debug\PPProgramacion.pdb

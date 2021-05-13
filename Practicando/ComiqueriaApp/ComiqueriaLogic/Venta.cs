@@ -49,6 +49,10 @@ namespace ComiqueriaLogic
         }
         public string ObtenerDescripcionBreve()
         {
+            if(producto is null)
+            {
+                return "";
+            }
             return String.Format("{0} - {1} - ${2:0.00}", this.fecha, this.producto.Descripcion, this.precioFinal);
         }
         #endregion

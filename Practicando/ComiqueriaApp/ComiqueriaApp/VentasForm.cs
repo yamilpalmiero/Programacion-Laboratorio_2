@@ -27,6 +27,7 @@ namespace ComiqueriaApp
         private void VentasForm_Load(object sender, EventArgs e)
         {
             this.lblDescripcion.Text = this.productoSeleccionado.Descripcion;
+            ActualizarPrecio();
         }
 
         private void ActualizarPrecio()
