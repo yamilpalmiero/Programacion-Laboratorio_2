@@ -1,0 +1,13 @@
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\Comiqueria\Comiqueria\bin\Debug\Comiqueria.exe.config
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\Comiqueria\Comiqueria\bin\Debug\Comiqueria.exe
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\Comiqueria\Comiqueria\bin\Debug\Comiqueria.pdb
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\Comiqueria\Comiqueria\bin\Debug\Entidades.dll
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\Comiqueria\Comiqueria\bin\Debug\Entidades.pdb
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\Comiqueria\Comiqueria\obj\Debug\Comiqueria.csprojAssemblyReference.cache
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\Comiqueria\Comiqueria\obj\Debug\Comiqueria.FrmTester.resources
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\Comiqueria\Comiqueria\obj\Debug\Comiqueria.Properties.Resources.resources
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\Comiqueria\Comiqueria\obj\Debug\Comiqueria.csproj.GenerateResource.cache
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\Comiqueria\Comiqueria\obj\Debug\Comiqueria.csproj.CoreCompileInputs.cache
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\Comiqueria\Comiqueria\obj\Debug\Comiqueria.csproj.CopyComplete
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\Comiqueria\Comiqueria\obj\Debug\Comiqueria.exe
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\Comiqueria\Comiqueria\obj\Debug\Comiqueria.pdb

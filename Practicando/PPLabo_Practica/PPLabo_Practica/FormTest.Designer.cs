@@ -44,6 +44,7 @@ namespace PPLabo_Practica
             this.btnVender.TabIndex = 0;
             this.btnVender.Text = "Vender";
             this.btnVender.UseVisualStyleBackColor = true;
+            this.btnVender.Click += new System.EventHandler(this.btnVender_Click);
             // 
             // btnVerInforme
             // 
@@ -96,7 +97,7 @@ namespace PPLabo_Practica
             this.MinimizeBox = false;
             this.Name = "FrmTest";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Testear App de Yamil Palmiero (2°C)";
+            this.Text = "Tester App de Yamil Palmiero (2°C)";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.FrmTest_FormClosing);
             this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.FrmTest_FormClosed);
             this.Load += new System.EventHandler(this.FormTest_Load);

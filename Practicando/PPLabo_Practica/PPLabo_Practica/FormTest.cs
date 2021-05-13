@@ -18,7 +18,7 @@ namespace PPLabo_Practica
         public FrmTest()
         {
             InitializeComponent();
-            vendedor = new Vendedor(nombre);
+            vendedor = new Vendedor("Yamil");
         }
 
         private void FormTest_Load(object sender, EventArgs e)
@@ -32,7 +32,11 @@ namespace PPLabo_Practica
 
         private void lstStock_SelectedIndexChanged(object sender, EventArgs e)
         {
-            lstStock.Items = e
+            Biografia p1 = (Biografia)"Life (Keith Richards)";
+            Biografia p2 = new Biografia("White line fever (Lemmy)", 5);
+            Biografia p3 = new Biografia("Commando (Johnny Ramone)", 2, 5000);
+            Comic p4 = new Comic("La Muerte de Superman (Superman)", true, 1, 1850);
+            Comic p5 = new Comic("Año Uno (Batman)", false, 3, 1270);
         }
 
         private void FrmTest_FormClosing(object sender, FormClosingEventArgs e)
@@ -44,6 +48,11 @@ namespace PPLabo_Practica
         }
 
         private void FrmTest_FormClosed(object sender, FormClosedEventArgs e)
+        {
+
+        }
+
+        private void btnVender_Click(object sender, EventArgs e)
         {
 
         }

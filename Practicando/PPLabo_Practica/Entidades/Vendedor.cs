@@ -33,7 +33,7 @@ namespace Entidades
                 sb.AppendLine("-----------------------------");
                 ganancia += publicacion.Importe;
             }
-            sb.AppendLine(String.Format("\n\nGanancia Total: {0:0.00}", ganancia));
+            sb.AppendLine(String.Format("\n\nGanancia Total: ${0:0.00}", ganancia));
 
             return sb.ToString();
         }
@@ -42,9 +42,11 @@ namespace Entidades
         {
             if (p.Stock > 0)
             {
-                v.ventas.Add(p.Informacion());
+                v.ventas.Add(p);
                 p.Stock--;
+                return true;
             }
+            return false;
         }
     }
 }

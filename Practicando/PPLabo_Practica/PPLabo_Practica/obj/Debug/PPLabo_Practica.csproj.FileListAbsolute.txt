@@ -1,0 +1,12 @@
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\PPLabo_Practica\PPLabo_Practica\bin\Debug\PPLabo_Practica.exe.config
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\PPLabo_Practica\PPLabo_Practica\bin\Debug\PPLabo_Practica.exe
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\PPLabo_Practica\PPLabo_Practica\bin\Debug\PPLabo_Practica.pdb
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\PPLabo_Practica\PPLabo_Practica\bin\Debug\Entidades.dll
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\PPLabo_Practica\PPLabo_Practica\bin\Debug\Entidades.pdb
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\PPLabo_Practica\PPLabo_Practica\obj\Debug\PPLabo_Practica.csprojAssemblyReference.cache
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\PPLabo_Practica\PPLabo_Practica\obj\Debug\PPLabo_Practica.FrmTest.resources
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\PPLabo_Practica\PPLabo_Practica\obj\Debug\PPLabo_Practica.csproj.GenerateResource.cache
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\PPLabo_Practica\PPLabo_Practica\obj\Debug\PPLabo_Practica.csproj.CoreCompileInputs.cache
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\PPLabo_Practica\PPLabo_Practica\obj\Debug\PPLabo_Practica.csproj.CopyComplete
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\PPLabo_Practica\PPLabo_Practica\obj\Debug\PPLabo_Practica.exe
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\PPLabo_Practica\PPLabo_Practica\obj\Debug\PPLabo_Practica.pdb
