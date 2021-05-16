@@ -1,0 +1,13 @@
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Parciales\Palmiero.Yamil.2C\Palmiero.Yamil.2C\obj\Debug\Palmiero.Yamil.2C.csprojAssemblyReference.cache
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Parciales\Palmiero.Yamil.2C\Palmiero.Yamil.2C\obj\Debug\Palmiero.Yamil._2C.FormularioPrincipal.resources
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Parciales\Palmiero.Yamil.2C\Palmiero.Yamil.2C\obj\Debug\Palmiero.Yamil._2C.Properties.Resources.resources
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Parciales\Palmiero.Yamil.2C\Palmiero.Yamil.2C\obj\Debug\Palmiero.Yamil.2C.csproj.GenerateResource.cache
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Parciales\Palmiero.Yamil.2C\Palmiero.Yamil.2C\obj\Debug\Palmiero.Yamil.2C.csproj.CoreCompileInputs.cache
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Parciales\Palmiero.Yamil.2C\Palmiero.Yamil.2C\bin\Debug\Palmiero.Yamil.2C.exe.config
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Parciales\Palmiero.Yamil.2C\Palmiero.Yamil.2C\bin\Debug\Palmiero.Yamil.2C.exe
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Parciales\Palmiero.Yamil.2C\Palmiero.Yamil.2C\bin\Debug\Palmiero.Yamil.2C.pdb
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Parciales\Palmiero.Yamil.2C\Palmiero.Yamil.2C\bin\Debug\Entidades.dll
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Parciales\Palmiero.Yamil.2C\Palmiero.Yamil.2C\bin\Debug\Entidades.pdb
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Parciales\Palmiero.Yamil.2C\Palmiero.Yamil.2C\obj\Debug\Palmiero.Yamil.2C.csproj.CopyComplete
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Parciales\Palmiero.Yamil.2C\Palmiero.Yamil.2C\obj\Debug\Palmiero.Yamil.2C.exe
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Parciales\Palmiero.Yamil.2C\Palmiero.Yamil.2C\obj\Debug\Palmiero.Yamil.2C.pdb
