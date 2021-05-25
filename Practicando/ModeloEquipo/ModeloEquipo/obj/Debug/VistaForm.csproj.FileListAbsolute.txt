@@ -1,0 +1,13 @@
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\ModeloEquipo\ModeloEquipo\bin\Debug\ModeloEquipo.exe.config
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\ModeloEquipo\ModeloEquipo\bin\Debug\ModeloEquipo.exe
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\ModeloEquipo\ModeloEquipo\bin\Debug\ModeloEquipo.pdb
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\ModeloEquipo\ModeloEquipo\bin\Debug\Entidades.dll
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\ModeloEquipo\ModeloEquipo\bin\Debug\Entidades.pdb
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\ModeloEquipo\ModeloEquipo\obj\Debug\VistaForm.csprojAssemblyReference.cache
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\ModeloEquipo\ModeloEquipo\obj\Debug\ModeloEquipo.FrmPrincipal.resources
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\ModeloEquipo\ModeloEquipo\obj\Debug\ModeloEquipo.Properties.Resources.resources
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\ModeloEquipo\ModeloEquipo\obj\Debug\VistaForm.csproj.GenerateResource.cache
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\ModeloEquipo\ModeloEquipo\obj\Debug\VistaForm.csproj.CoreCompileInputs.cache
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\ModeloEquipo\ModeloEquipo\obj\Debug\VistaForm.csproj.CopyComplete
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\ModeloEquipo\ModeloEquipo\obj\Debug\ModeloEquipo.exe
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\ModeloEquipo\ModeloEquipo\obj\Debug\ModeloEquipo.pdb

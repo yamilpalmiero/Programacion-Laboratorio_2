@@ -1,0 +1,10 @@
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\ModeloEquipo\VistaConsola\bin\Debug\VistaConsola.exe.config
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\ModeloEquipo\VistaConsola\bin\Debug\VistaConsola.exe
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\ModeloEquipo\VistaConsola\bin\Debug\VistaConsola.pdb
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\ModeloEquipo\VistaConsola\bin\Debug\Entidades.dll
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\ModeloEquipo\VistaConsola\bin\Debug\Entidades.pdb
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\ModeloEquipo\VistaConsola\obj\Debug\VistaConsola.csprojAssemblyReference.cache
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\ModeloEquipo\VistaConsola\obj\Debug\VistaConsola.csproj.CoreCompileInputs.cache
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\ModeloEquipo\VistaConsola\obj\Debug\VistaConsola.csproj.CopyComplete
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\ModeloEquipo\VistaConsola\obj\Debug\VistaConsola.exe
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\ModeloEquipo\VistaConsola\obj\Debug\VistaConsola.pdb
