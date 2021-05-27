@@ -1,0 +1,13 @@
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\ModeloEstacionamiento\ModeloEstacionamiento\bin\Debug\ModeloEstacionamiento.exe.config
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\ModeloEstacionamiento\ModeloEstacionamiento\bin\Debug\ModeloEstacionamiento.exe
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\ModeloEstacionamiento\ModeloEstacionamiento\bin\Debug\ModeloEstacionamiento.pdb
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\ModeloEstacionamiento\ModeloEstacionamiento\bin\Debug\Entidades.dll
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\ModeloEstacionamiento\ModeloEstacionamiento\bin\Debug\Entidades.pdb
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\ModeloEstacionamiento\ModeloEstacionamiento\obj\Debug\VistaForm.csprojAssemblyReference.cache
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\ModeloEstacionamiento\ModeloEstacionamiento\obj\Debug\ModeloEstacionamiento.FrmPickup.resources
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\ModeloEstacionamiento\ModeloEstacionamiento\obj\Debug\ModeloEstacionamiento.Properties.Resources.resources
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\ModeloEstacionamiento\ModeloEstacionamiento\obj\Debug\VistaForm.csproj.GenerateResource.cache
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\ModeloEstacionamiento\ModeloEstacionamiento\obj\Debug\VistaForm.csproj.CoreCompileInputs.cache
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\ModeloEstacionamiento\ModeloEstacionamiento\obj\Debug\VistaForm.csproj.CopyComplete
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\ModeloEstacionamiento\ModeloEstacionamiento\obj\Debug\ModeloEstacionamiento.exe
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\ModeloEstacionamiento\ModeloEstacionamiento\obj\Debug\ModeloEstacionamiento.pdb

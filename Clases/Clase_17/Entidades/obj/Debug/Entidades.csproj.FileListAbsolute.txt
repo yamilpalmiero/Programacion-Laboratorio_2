@@ -1,0 +1,5 @@
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Clases\Clase_17\Entidades\bin\Debug\Entidades.dll
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Clases\Clase_17\Entidades\bin\Debug\Entidades.pdb
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Clases\Clase_17\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Clases\Clase_17\Entidades\obj\Debug\Entidades.dll
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Clases\Clase_17\Entidades\obj\Debug\Entidades.pdb
