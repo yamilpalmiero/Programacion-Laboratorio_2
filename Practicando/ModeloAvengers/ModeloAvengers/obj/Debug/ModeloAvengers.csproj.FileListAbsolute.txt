@@ -1,0 +1,13 @@
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\ModeloAvengers\ModeloAvengers\bin\Debug\ModeloAvengers.exe.config
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\ModeloAvengers\ModeloAvengers\bin\Debug\ModeloAvengers.exe
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\ModeloAvengers\ModeloAvengers\bin\Debug\ModeloAvengers.pdb
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\ModeloAvengers\ModeloAvengers\bin\Debug\Entidades.dll
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\ModeloAvengers\ModeloAvengers\bin\Debug\Entidades.pdb
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\ModeloAvengers\ModeloAvengers\obj\Debug\ModeloAvengers.csprojAssemblyReference.cache
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\ModeloAvengers\ModeloAvengers\obj\Debug\ModeloAvengers.FrmPrincipal.resources
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\ModeloAvengers\ModeloAvengers\obj\Debug\ModeloAvengers.Properties.Resources.resources
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\ModeloAvengers\ModeloAvengers\obj\Debug\ModeloAvengers.csproj.GenerateResource.cache
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\ModeloAvengers\ModeloAvengers\obj\Debug\ModeloAvengers.csproj.CoreCompileInputs.cache
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\ModeloAvengers\ModeloAvengers\obj\Debug\ModeloAvengers.csproj.CopyComplete
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\ModeloAvengers\ModeloAvengers\obj\Debug\ModeloAvengers.exe
+C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Practicando\ModeloAvengers\ModeloAvengers\obj\Debug\ModeloAvengers.pdb
