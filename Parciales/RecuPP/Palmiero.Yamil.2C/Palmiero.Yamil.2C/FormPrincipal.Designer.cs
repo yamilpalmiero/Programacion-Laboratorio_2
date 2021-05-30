@@ -31,11 +31,11 @@ namespace Palmiero.Yamil._2C
         {
             this.lblTipoVehiculo = new System.Windows.Forms.Label();
             this.lblPatente = new System.Windows.Forms.Label();
-            this.lblTipoMoto = new System.Windows.Forms.Label();
+            this.lblTipo = new System.Windows.Forms.Label();
             this.cmbTipoVehiculo = new System.Windows.Forms.ComboBox();
             this.txtPatente = new System.Windows.Forms.TextBox();
             this.cmbTipoMoto = new System.Windows.Forms.ComboBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.txtMarca = new System.Windows.Forms.TextBox();
             this.btnAgregar = new System.Windows.Forms.Button();
             this.txtNombreEstacionamiento = new System.Windows.Forms.TextBox();
             this.lstVehiculos = new System.Windows.Forms.ListBox();
@@ -49,6 +49,7 @@ namespace Palmiero.Yamil._2C
             this.lblTipoVehiculo.Size = new System.Drawing.Size(94, 17);
             this.lblTipoVehiculo.TabIndex = 0;
             this.lblTipoVehiculo.Text = "Tipo Vehiculo";
+            this.lblTipoVehiculo.Click += new System.EventHandler(this.lblTipoVehiculo_Click);
             // 
             // lblPatente
             // 
@@ -59,14 +60,14 @@ namespace Palmiero.Yamil._2C
             this.lblPatente.TabIndex = 1;
             this.lblPatente.Text = "Patente:";
             // 
-            // lblTipoMoto
+            // lblTipo
             // 
-            this.lblTipoMoto.AutoSize = true;
-            this.lblTipoMoto.Location = new System.Drawing.Point(58, 158);
-            this.lblTipoMoto.Name = "lblTipoMoto";
-            this.lblTipoMoto.Size = new System.Drawing.Size(71, 17);
-            this.lblTipoMoto.TabIndex = 2;
-            this.lblTipoMoto.Text = "Tipo Moto";
+            this.lblTipo.AutoSize = true;
+            this.lblTipo.Location = new System.Drawing.Point(58, 158);
+            this.lblTipo.Name = "lblTipo";
+            this.lblTipo.Size = new System.Drawing.Size(71, 17);
+            this.lblTipo.TabIndex = 2;
+            this.lblTipo.Text = "Tipo Moto";
             // 
             // cmbTipoVehiculo
             // 
@@ -75,6 +76,7 @@ namespace Palmiero.Yamil._2C
             this.cmbTipoVehiculo.Name = "cmbTipoVehiculo";
             this.cmbTipoVehiculo.Size = new System.Drawing.Size(174, 24);
             this.cmbTipoVehiculo.TabIndex = 3;
+            this.cmbTipoVehiculo.SelectedIndexChanged += new System.EventHandler(this.cmbTipoVehiculo_SelectedIndexChanged);
             // 
             // txtPatente
             // 
@@ -91,12 +93,12 @@ namespace Palmiero.Yamil._2C
             this.cmbTipoMoto.Size = new System.Drawing.Size(169, 24);
             this.cmbTipoMoto.TabIndex = 5;
             // 
-            // textBox2
+            // txtMarca
             // 
-            this.textBox2.Location = new System.Drawing.Point(346, 155);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(156, 22);
-            this.textBox2.TabIndex = 6;
+            this.txtMarca.Location = new System.Drawing.Point(346, 155);
+            this.txtMarca.Name = "txtMarca";
+            this.txtMarca.Size = new System.Drawing.Size(156, 22);
+            this.txtMarca.TabIndex = 6;
             // 
             // btnAgregar
             // 
@@ -117,6 +119,7 @@ namespace Palmiero.Yamil._2C
             // 
             // lstVehiculos
             // 
+            this.lstVehiculos.BackColor = System.Drawing.SystemColors.Window;
             this.lstVehiculos.FormattingEnabled = true;
             this.lstVehiculos.ItemHeight = 16;
             this.lstVehiculos.Location = new System.Drawing.Point(561, 101);
@@ -124,6 +127,7 @@ namespace Palmiero.Yamil._2C
             this.lstVehiculos.Size = new System.Drawing.Size(299, 292);
             this.lstVehiculos.TabIndex = 9;
             this.lstVehiculos.SelectedIndexChanged += new System.EventHandler(this.lstVehiculos_SelectedIndexChanged);
+            this.lstVehiculos.MouseDoubleClick += new System.Windows.Forms.MouseEventHandler(this.lstVehiculos_MouseDoubleClick);
             // 
             // FrmPrincipal
             // 
@@ -133,11 +137,11 @@ namespace Palmiero.Yamil._2C
             this.Controls.Add(this.lstVehiculos);
             this.Controls.Add(this.txtNombreEstacionamiento);
             this.Controls.Add(this.btnAgregar);
-            this.Controls.Add(this.textBox2);
+            this.Controls.Add(this.txtMarca);
             this.Controls.Add(this.cmbTipoMoto);
             this.Controls.Add(this.txtPatente);
             this.Controls.Add(this.cmbTipoVehiculo);
-            this.Controls.Add(this.lblTipoMoto);
+            this.Controls.Add(this.lblTipo);
             this.Controls.Add(this.lblPatente);
             this.Controls.Add(this.lblTipoVehiculo);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
@@ -156,11 +160,11 @@ namespace Palmiero.Yamil._2C
 
         private System.Windows.Forms.Label lblTipoVehiculo;
         private System.Windows.Forms.Label lblPatente;
-        private System.Windows.Forms.Label lblTipoMoto;
+        private System.Windows.Forms.Label lblTipo;
         private System.Windows.Forms.ComboBox cmbTipoVehiculo;
         private System.Windows.Forms.TextBox txtPatente;
         private System.Windows.Forms.ComboBox cmbTipoMoto;
-        private System.Windows.Forms.TextBox textBox2;
+        private System.Windows.Forms.TextBox txtMarca;
         private System.Windows.Forms.Button btnAgregar;
         private System.Windows.Forms.TextBox txtNombreEstacionamiento;
         private System.Windows.Forms.ListBox lstVehiculos;

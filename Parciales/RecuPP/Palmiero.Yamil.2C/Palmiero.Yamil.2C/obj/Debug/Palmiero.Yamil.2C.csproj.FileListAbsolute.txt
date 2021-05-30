@@ -1,0 +1,13 @@
+C:\Facultad\Programacion-Laboratorio_2\Parciales\RecuPP\Palmiero.Yamil.2C\Palmiero.Yamil.2C\bin\Debug\Palmiero.Yamil.2C.exe.config
+C:\Facultad\Programacion-Laboratorio_2\Parciales\RecuPP\Palmiero.Yamil.2C\Palmiero.Yamil.2C\bin\Debug\Palmiero.Yamil.2C.exe
+C:\Facultad\Programacion-Laboratorio_2\Parciales\RecuPP\Palmiero.Yamil.2C\Palmiero.Yamil.2C\bin\Debug\Palmiero.Yamil.2C.pdb
+C:\Facultad\Programacion-Laboratorio_2\Parciales\RecuPP\Palmiero.Yamil.2C\Palmiero.Yamil.2C\bin\Debug\Entidades.dll
+C:\Facultad\Programacion-Laboratorio_2\Parciales\RecuPP\Palmiero.Yamil.2C\Palmiero.Yamil.2C\bin\Debug\Entidades.pdb
+C:\Facultad\Programacion-Laboratorio_2\Parciales\RecuPP\Palmiero.Yamil.2C\Palmiero.Yamil.2C\obj\Debug\Palmiero.Yamil.2C.csprojAssemblyReference.cache
+C:\Facultad\Programacion-Laboratorio_2\Parciales\RecuPP\Palmiero.Yamil.2C\Palmiero.Yamil.2C\obj\Debug\Palmiero.Yamil._2C.FrmPrincipal.resources
+C:\Facultad\Programacion-Laboratorio_2\Parciales\RecuPP\Palmiero.Yamil.2C\Palmiero.Yamil.2C\obj\Debug\Palmiero.Yamil._2C.Properties.Resources.resources
+C:\Facultad\Programacion-Laboratorio_2\Parciales\RecuPP\Palmiero.Yamil.2C\Palmiero.Yamil.2C\obj\Debug\Palmiero.Yamil.2C.csproj.GenerateResource.cache
+C:\Facultad\Programacion-Laboratorio_2\Parciales\RecuPP\Palmiero.Yamil.2C\Palmiero.Yamil.2C\obj\Debug\Palmiero.Yamil.2C.csproj.CoreCompileInputs.cache
+C:\Facultad\Programacion-Laboratorio_2\Parciales\RecuPP\Palmiero.Yamil.2C\Palmiero.Yamil.2C\obj\Debug\Palmiero.Yamil.2C.csproj.CopyComplete
+C:\Facultad\Programacion-Laboratorio_2\Parciales\RecuPP\Palmiero.Yamil.2C\Palmiero.Yamil.2C\obj\Debug\Palmiero.Yamil.2C.exe
+C:\Facultad\Programacion-Laboratorio_2\Parciales\RecuPP\Palmiero.Yamil.2C\Palmiero.Yamil.2C\obj\Debug\Palmiero.Yamil.2C.pdb

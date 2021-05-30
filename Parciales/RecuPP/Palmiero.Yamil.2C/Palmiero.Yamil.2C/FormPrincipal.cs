@@ -13,6 +13,7 @@ namespace Palmiero.Yamil._2C
 {
     public partial class FrmPrincipal : Form
     {
+        private Estacionamiento estacionamiento;
         public FrmPrincipal()
         {
             InitializeComponent();
@@ -40,11 +41,38 @@ namespace Palmiero.Yamil._2C
         {
             this.cmbTipoVehiculo.DataSource = Enum.GetValues(typeof(Vehiculo.EVehiculos));
             this.cmbTipoMoto.DataSource = Enum.GetValues(typeof(Moto.ETipo));
-            this.estacionamiento = Estacionamiento.GetEstacionamiento("Nombre del Alumno", 20);
+            this.estacionamiento = Estacionamiento.GetEstacionamiento("Yamil Palmiero", 20);
             this.txtNombreEstacionamiento.Text = this.estacionamiento.Nombre;
         }
 
         private void lstVehiculos_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lblTipoVehiculo_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void cmbTipoVehiculo_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            if ((Vehiculo.EVehiculos)this.cmbTipoVehiculo.SelectedItem == Vehiculo.EVehiculos.Automovil)
+            {
+                this.cmbTipoMoto.Visible = false;
+                lblTipo.Text = "Marca:";
+                this.txtMarca.Location = this.cmbTipoMoto.Location;
+                this.txtMarca.Visible = true;
+            }
+            else
+            {
+                this.cmbTipoMoto.Visible = true;
+                lblTipo.Text = "Tipo Moto:";
+                this.txtMarca.Visible = false;
+            }
+        }
+
+        private void lstVehiculos_MouseDoubleClick(object sender, MouseEventArgs e)
         {
             if (this.estacionamiento - (Vehiculo)this.lstVehiculos.SelectedItem)
             {
