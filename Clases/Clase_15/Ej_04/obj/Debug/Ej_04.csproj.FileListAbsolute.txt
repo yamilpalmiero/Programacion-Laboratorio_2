@@ -1,0 +1,7 @@
+C:\Facultad\Programacion-Laboratorio_2\Clases\Clase_15\Ej_04\bin\Debug\Ej_04.exe.config
+C:\Facultad\Programacion-Laboratorio_2\Clases\Clase_15\Ej_04\bin\Debug\Ej_04.exe
+C:\Facultad\Programacion-Laboratorio_2\Clases\Clase_15\Ej_04\bin\Debug\Ej_04.pdb
+C:\Facultad\Programacion-Laboratorio_2\Clases\Clase_15\Ej_04\obj\Debug\Ej_04.csprojAssemblyReference.cache
+C:\Facultad\Programacion-Laboratorio_2\Clases\Clase_15\Ej_04\obj\Debug\Ej_04.csproj.CoreCompileInputs.cache
+C:\Facultad\Programacion-Laboratorio_2\Clases\Clase_15\Ej_04\obj\Debug\Ej_04.exe
+C:\Facultad\Programacion-Laboratorio_2\Clases\Clase_15\Ej_04\obj\Debug\Ej_04.pdb

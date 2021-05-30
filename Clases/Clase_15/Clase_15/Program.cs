@@ -15,13 +15,14 @@ namespace Ej_01
                 Console.WriteLine("Escriba un numero: ");
                 int num = int.Parse(Console.ReadLine());
 
-                Console.ReadKey();
+                Console.WriteLine("Esto se ejecuta dentro del TRY si no hubo excepcion.");
             }
             catch (OverflowException e)
             {
                 Console.WriteLine(e.Message);
             }
 
+            Console.WriteLine("Esto se ejecuta luego del bloque T-C haya o no excepcion, siguiendo el flujo normal del programa.");
             Console.ReadKey();
         }
     }
