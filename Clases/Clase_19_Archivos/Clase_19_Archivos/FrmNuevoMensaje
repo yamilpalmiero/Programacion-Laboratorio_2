@@ -1,0 +1,44 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using Entidades;
+
+namespace Clase_19_Archivos
+{
+    public partial class FrmPrincipal : Form
+    {
+        Mensaje mensaje = null;
+
+        public FrmPrincipal()
+        {
+            InitializeComponent();
+        }
+
+        private void btnEnviar_Click(object sender, EventArgs e)
+        {
+            if (txtDe.Text == "")
+            {
+                MessageBox.Show("Falta ingresar nombre del remitente.", "ERROR !", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+            else if (txtPara.Text == "")
+            {
+                MessageBox.Show("Falta ingresar nombre del receptor.", "ERROR !", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+            else if (txtMensaje.Text == "")
+            {
+                MessageBox.Show("Falta ingresar mensaje.", "ERROR !", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+            else
+            {
+                mensaje = new Mensaje(this.txtDe.Text, this.txtPara.Text, this.txtMensaje.Text);
+                MessageBox.Show(mensaje.ToString());
+            }
+        }
+    }
+}

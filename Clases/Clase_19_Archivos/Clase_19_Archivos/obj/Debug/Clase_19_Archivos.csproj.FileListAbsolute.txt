@@ -1,0 +1,14 @@
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_Archivos\Clase_19_Archivos\bin\Debug\Clase_19_Archivos.exe.config
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_Archivos\Clase_19_Archivos\bin\Debug\Clase_19_Archivos.exe
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_Archivos\Clase_19_Archivos\bin\Debug\Clase_19_Archivos.pdb
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_Archivos\Clase_19_Archivos\bin\Debug\Entidades.dll
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_Archivos\Clase_19_Archivos\bin\Debug\Entidades.pdb
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_Archivos\Clase_19_Archivos\obj\Debug\Clase_19_Archivos.csproj.AssemblyReference.cache
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_Archivos\Clase_19_Archivos\obj\Debug\Clase_19_Archivos.FrmPrincipal.resources
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_Archivos\Clase_19_Archivos\obj\Debug\Clase_19_Archivos.Properties.Resources.resources
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_Archivos\Clase_19_Archivos\obj\Debug\Clase_19_Archivos.csproj.GenerateResource.cache
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_Archivos\Clase_19_Archivos\obj\Debug\Clase_19_Archivos.csproj.CoreCompileInputs.cache
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_Archivos\Clase_19_Archivos\obj\Debug\Clase_19_Archivos.csproj.CopyComplete
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_Archivos\Clase_19_Archivos\obj\Debug\Clase_19_Archivos.exe
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_Archivos\Clase_19_Archivos\obj\Debug\Clase_19_Archivos.pdb
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_Archivos\Clase_19_Archivos\obj\Debug\Clase_19_Archivos.FrmSecundario.resources

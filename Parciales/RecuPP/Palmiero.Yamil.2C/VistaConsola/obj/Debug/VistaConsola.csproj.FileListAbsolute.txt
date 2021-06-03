@@ -1,0 +1,10 @@
+C:\Facultad\Programacion-Laboratorio_2\Parciales\RecuPP\Palmiero.Yamil.2C\VistaConsola\bin\Debug\VistaConsola.exe.config
+C:\Facultad\Programacion-Laboratorio_2\Parciales\RecuPP\Palmiero.Yamil.2C\VistaConsola\bin\Debug\VistaConsola.exe
+C:\Facultad\Programacion-Laboratorio_2\Parciales\RecuPP\Palmiero.Yamil.2C\VistaConsola\bin\Debug\VistaConsola.pdb
+C:\Facultad\Programacion-Laboratorio_2\Parciales\RecuPP\Palmiero.Yamil.2C\VistaConsola\bin\Debug\Entidades.dll
+C:\Facultad\Programacion-Laboratorio_2\Parciales\RecuPP\Palmiero.Yamil.2C\VistaConsola\bin\Debug\Entidades.pdb
+C:\Facultad\Programacion-Laboratorio_2\Parciales\RecuPP\Palmiero.Yamil.2C\VistaConsola\obj\Debug\VistaConsola.csprojAssemblyReference.cache
+C:\Facultad\Programacion-Laboratorio_2\Parciales\RecuPP\Palmiero.Yamil.2C\VistaConsola\obj\Debug\VistaConsola.csproj.CoreCompileInputs.cache
+C:\Facultad\Programacion-Laboratorio_2\Parciales\RecuPP\Palmiero.Yamil.2C\VistaConsola\obj\Debug\VistaConsola.csproj.CopyComplete
+C:\Facultad\Programacion-Laboratorio_2\Parciales\RecuPP\Palmiero.Yamil.2C\VistaConsola\obj\Debug\VistaConsola.exe
+C:\Facultad\Programacion-Laboratorio_2\Parciales\RecuPP\Palmiero.Yamil.2C\VistaConsola\obj\Debug\VistaConsola.pdb
