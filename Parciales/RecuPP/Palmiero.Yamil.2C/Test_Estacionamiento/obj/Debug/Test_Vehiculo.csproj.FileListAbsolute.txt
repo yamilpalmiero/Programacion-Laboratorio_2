@@ -1,0 +1,4 @@
+E:\Facultad\Programacion-Laboratorio_2\Parciales\RecuPP\Palmiero.Yamil.2C\Test_Estacionamiento\obj\Debug\Test_Vehiculo.csproj.AssemblyReference.cache
+E:\Facultad\Programacion-Laboratorio_2\Parciales\RecuPP\Palmiero.Yamil.2C\Test_Estacionamiento\obj\Debug\Test_Vehiculo.csproj.CoreCompileInputs.cache
+E:\Facultad\Programacion-Laboratorio_2\Parciales\RecuPP\Palmiero.Yamil.2C\Test_Estacionamiento\obj\Debug\Test_Estacionamiento.dll
+E:\Facultad\Programacion-Laboratorio_2\Parciales\RecuPP\Palmiero.Yamil.2C\Test_Estacionamiento\obj\Debug\Test_Estacionamiento.pdb

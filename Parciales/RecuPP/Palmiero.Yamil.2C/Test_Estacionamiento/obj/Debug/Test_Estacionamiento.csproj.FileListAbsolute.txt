@@ -1,0 +1,17 @@
+E:\Facultad\Programacion-Laboratorio_2\Parciales\RecuPP\Palmiero.Yamil.2C\Test_Estacionamiento\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+E:\Facultad\Programacion-Laboratorio_2\Parciales\RecuPP\Palmiero.Yamil.2C\Test_Estacionamiento\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+E:\Facultad\Programacion-Laboratorio_2\Parciales\RecuPP\Palmiero.Yamil.2C\Test_Estacionamiento\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\Facultad\Programacion-Laboratorio_2\Parciales\RecuPP\Palmiero.Yamil.2C\Test_Estacionamiento\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Facultad\Programacion-Laboratorio_2\Parciales\RecuPP\Palmiero.Yamil.2C\Test_Estacionamiento\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Facultad\Programacion-Laboratorio_2\Parciales\RecuPP\Palmiero.Yamil.2C\Test_Estacionamiento\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Facultad\Programacion-Laboratorio_2\Parciales\RecuPP\Palmiero.Yamil.2C\Test_Estacionamiento\bin\Debug\Test_Estacionamiento.dll
+E:\Facultad\Programacion-Laboratorio_2\Parciales\RecuPP\Palmiero.Yamil.2C\Test_Estacionamiento\bin\Debug\Test_Estacionamiento.pdb
+E:\Facultad\Programacion-Laboratorio_2\Parciales\RecuPP\Palmiero.Yamil.2C\Test_Estacionamiento\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Facultad\Programacion-Laboratorio_2\Parciales\RecuPP\Palmiero.Yamil.2C\Test_Estacionamiento\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Facultad\Programacion-Laboratorio_2\Parciales\RecuPP\Palmiero.Yamil.2C\Test_Estacionamiento\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Facultad\Programacion-Laboratorio_2\Parciales\RecuPP\Palmiero.Yamil.2C\Test_Estacionamiento\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Facultad\Programacion-Laboratorio_2\Parciales\RecuPP\Palmiero.Yamil.2C\Test_Estacionamiento\obj\Debug\Test_Estacionamiento.csproj.AssemblyReference.cache
+E:\Facultad\Programacion-Laboratorio_2\Parciales\RecuPP\Palmiero.Yamil.2C\Test_Estacionamiento\obj\Debug\Test_Estacionamiento.csproj.CoreCompileInputs.cache
+E:\Facultad\Programacion-Laboratorio_2\Parciales\RecuPP\Palmiero.Yamil.2C\Test_Estacionamiento\obj\Debug\Test_Estacionamiento.csproj.CopyComplete
+E:\Facultad\Programacion-Laboratorio_2\Parciales\RecuPP\Palmiero.Yamil.2C\Test_Estacionamiento\obj\Debug\Test_Estacionamiento.dll
+E:\Facultad\Programacion-Laboratorio_2\Parciales\RecuPP\Palmiero.Yamil.2C\Test_Estacionamiento\obj\Debug\Test_Estacionamiento.pdb

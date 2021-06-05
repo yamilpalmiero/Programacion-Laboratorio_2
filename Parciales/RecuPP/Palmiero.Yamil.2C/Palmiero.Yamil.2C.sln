@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Enti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VistaConsola", "VistaConsola\VistaConsola.csproj", "{B5EDD4BF-6972-405C-AF3D-D8577A1BD5B9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_Vehiculo", "Test_Estacionamiento\Test_Vehiculo.csproj", "{39FC8DCD-725E-4A76-9512-ABA1D9B4D516}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{B5EDD4BF-6972-405C-AF3D-D8577A1BD5B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B5EDD4BF-6972-405C-AF3D-D8577A1BD5B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B5EDD4BF-6972-405C-AF3D-D8577A1BD5B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39FC8DCD-725E-4A76-9512-ABA1D9B4D516}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39FC8DCD-725E-4A76-9512-ABA1D9B4D516}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39FC8DCD-725E-4A76-9512-ABA1D9B4D516}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39FC8DCD-725E-4A76-9512-ABA1D9B4D516}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

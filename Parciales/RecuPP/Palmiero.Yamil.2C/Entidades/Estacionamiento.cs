@@ -50,7 +50,7 @@ namespace Entidades
             }
             else
             {
-                Estacionamiento.estacionamiento.capacidadEstacionamiento--;
+                Estacionamiento.estacionamiento.capacidadEstacionamiento--;//usar capacidad del parametro
             }
             return Estacionamiento.estacionamiento;
         }

@@ -55,6 +55,7 @@ namespace Entidades
 
         protected override double CargoDeEstacionamiento()
         {
+            //reutilizar el metodo de base
             return Moto.valorHora * (this.HoraEgreso.Ticks - this.HoraIngreso.Ticks);
         }
 

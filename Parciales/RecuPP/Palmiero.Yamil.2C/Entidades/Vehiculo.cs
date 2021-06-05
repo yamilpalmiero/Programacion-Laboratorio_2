@@ -76,10 +76,10 @@ namespace Entidades
             return sb.ToString();
         }
 
-        private bool ValidarPatente(string patente)
+        public bool ValidarPatente(string patente)
         {
             bool retorno = false;
-
+            //Falta agregar que la patente no sea null
             if (patente.Length == 6 || patente.Length == 7)
             {
                 retorno = true;
