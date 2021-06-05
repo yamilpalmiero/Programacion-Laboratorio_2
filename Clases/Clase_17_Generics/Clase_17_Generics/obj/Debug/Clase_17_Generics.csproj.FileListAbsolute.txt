@@ -1,0 +1,10 @@
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_17_Generics\Clase_17_Generics\bin\Debug\Clase_17_Generics.exe.config
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_17_Generics\Clase_17_Generics\bin\Debug\Clase_17_Generics.exe
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_17_Generics\Clase_17_Generics\bin\Debug\Clase_17_Generics.pdb
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_17_Generics\Clase_17_Generics\bin\Debug\Entidades.dll
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_17_Generics\Clase_17_Generics\bin\Debug\Entidades.pdb
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_17_Generics\Clase_17_Generics\obj\Debug\Clase_17_Generics.csproj.AssemblyReference.cache
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_17_Generics\Clase_17_Generics\obj\Debug\Clase_17_Generics.csproj.CoreCompileInputs.cache
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_17_Generics\Clase_17_Generics\obj\Debug\Clase_17_Generics.csproj.CopyComplete
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_17_Generics\Clase_17_Generics\obj\Debug\Clase_17_Generics.exe
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_17_Generics\Clase_17_Generics\obj\Debug\Clase_17_Generics.pdb
