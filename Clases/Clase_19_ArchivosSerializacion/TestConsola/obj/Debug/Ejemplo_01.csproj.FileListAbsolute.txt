@@ -1,0 +1,7 @@
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_ArchivosSerializacion\TestConsola\bin\Debug\TestConsola.exe.config
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_ArchivosSerializacion\TestConsola\bin\Debug\TestConsola.exe
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_ArchivosSerializacion\TestConsola\bin\Debug\TestConsola.pdb
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_ArchivosSerializacion\TestConsola\obj\Debug\Ejemplo_01.csproj.AssemblyReference.cache
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_ArchivosSerializacion\TestConsola\obj\Debug\Ejemplo_01.csproj.CoreCompileInputs.cache
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_ArchivosSerializacion\TestConsola\obj\Debug\TestConsola.exe
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_ArchivosSerializacion\TestConsola\obj\Debug\TestConsola.pdb

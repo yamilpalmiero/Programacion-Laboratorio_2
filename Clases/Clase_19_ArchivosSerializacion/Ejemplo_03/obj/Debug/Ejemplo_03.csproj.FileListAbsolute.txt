@@ -1,0 +1,6 @@
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_ArchivosSerializacion\Ejemplo_03\bin\Debug\Ejemplo_03.exe.config
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_ArchivosSerializacion\Ejemplo_03\bin\Debug\Ejemplo_03.exe
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_ArchivosSerializacion\Ejemplo_03\bin\Debug\Ejemplo_03.pdb
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_ArchivosSerializacion\Ejemplo_03\obj\Debug\Ejemplo_03.csproj.CoreCompileInputs.cache
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_ArchivosSerializacion\Ejemplo_03\obj\Debug\Ejemplo_03.exe
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_ArchivosSerializacion\Ejemplo_03\obj\Debug\Ejemplo_03.pdb

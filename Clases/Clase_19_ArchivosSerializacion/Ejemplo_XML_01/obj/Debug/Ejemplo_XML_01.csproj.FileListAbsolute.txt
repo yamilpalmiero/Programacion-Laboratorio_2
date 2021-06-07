@@ -1,0 +1,10 @@
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_ArchivosSerializacion\Ejemplo_XML_01\bin\Debug\Ejemplo_XML_01.exe.config
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_ArchivosSerializacion\Ejemplo_XML_01\bin\Debug\Ejemplo_XML_01.exe
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_ArchivosSerializacion\Ejemplo_XML_01\bin\Debug\Ejemplo_XML_01.pdb
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_ArchivosSerializacion\Ejemplo_XML_01\bin\Debug\Entidades.dll
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_ArchivosSerializacion\Ejemplo_XML_01\bin\Debug\Entidades.pdb
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_ArchivosSerializacion\Ejemplo_XML_01\obj\Debug\Ejemplo_XML_01.csproj.AssemblyReference.cache
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_ArchivosSerializacion\Ejemplo_XML_01\obj\Debug\Ejemplo_XML_01.csproj.CoreCompileInputs.cache
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_ArchivosSerializacion\Ejemplo_XML_01\obj\Debug\Ejemplo_XML_01.csproj.CopyComplete
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_ArchivosSerializacion\Ejemplo_XML_01\obj\Debug\Ejemplo_XML_01.exe
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_ArchivosSerializacion\Ejemplo_XML_01\obj\Debug\Ejemplo_XML_01.pdb
