@@ -4,3 +4,9 @@ C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Ejercicios_guia\Centr
 C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Ejercicios_guia\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.csproj.CoreCompileInputs.cache
 C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Ejercicios_guia\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.dll
 C:\Users\yamil\Desktop\Facultad\Programacion-Laboratorio_2\Ejercicios_guia\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb
+E:\Facultad\Programacion-Laboratorio_2\Ejercicios_guia\Ejercicio_37_Centralita\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.dll
+E:\Facultad\Programacion-Laboratorio_2\Ejercicios_guia\Ejercicio_37_Centralita\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.pdb
+E:\Facultad\Programacion-Laboratorio_2\Ejercicios_guia\Ejercicio_37_Centralita\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.csproj.AssemblyReference.cache
+E:\Facultad\Programacion-Laboratorio_2\Ejercicios_guia\Ejercicio_37_Centralita\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.csproj.CoreCompileInputs.cache
+E:\Facultad\Programacion-Laboratorio_2\Ejercicios_guia\Ejercicio_37_Centralita\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.dll
+E:\Facultad\Programacion-Laboratorio_2\Ejercicios_guia\Ejercicio_37_Centralita\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb

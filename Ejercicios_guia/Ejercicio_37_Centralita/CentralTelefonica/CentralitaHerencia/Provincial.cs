@@ -49,8 +49,8 @@ namespace CentralitaHerencia
         {
             StringBuilder sb = new StringBuilder();
 
-            sb.Append(base.Mostrar());
-            sb.AppendLine("Costo: " + this.CostoLlamada.ToString());
+            sb.AppendLine(base.Mostrar());
+            sb.AppendLine($"Costo: ${this.CostoLlamada.ToString()}");
             sb.AppendLine("Franja horaria: " + this.franjaHoraria.ToString());
 
             return sb.ToString();

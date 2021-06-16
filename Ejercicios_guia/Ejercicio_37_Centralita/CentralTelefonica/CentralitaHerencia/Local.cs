@@ -26,7 +26,7 @@ namespace CentralitaHerencia
         #endregion
 
         #region Propiedades
-        public float CostoLLamada
+        public float CostoLlamada
         {
             get
             {
@@ -45,7 +45,7 @@ namespace CentralitaHerencia
             StringBuilder sb = new StringBuilder();
 
             sb.AppendLine(base.Mostrar());
-            sb.AppendFormat("Costo: {0}", this.costo);
+            sb.AppendFormat("Costo: {0}", this.CostoLlamada);
 
             return sb.ToString();
         }

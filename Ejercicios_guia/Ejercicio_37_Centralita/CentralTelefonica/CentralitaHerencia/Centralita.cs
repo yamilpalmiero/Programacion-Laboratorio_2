@@ -66,7 +66,7 @@ namespace CentralitaHerencia
             {
                 if (llamada is Local)
                 {
-                    totalLocal += ((Local)llamada).CostoLLamada;
+                    totalLocal += ((Local)llamada).CostoLlamada;
                 }
                 if (llamada is Provincial)
                 {
@@ -92,9 +92,9 @@ namespace CentralitaHerencia
             StringBuilder sb = new StringBuilder();
 
             sb.AppendLine($"Empresa: {this.razonSocial}");
-            sb.AppendLine($"Ganacia total: {this.CalcularGanancia(Llamada.TipoLlamada.Todas)}");
-            sb.AppendLine($"Ganancia por llamados locales: {this.CalcularGanancia(Llamada.TipoLlamada.Local)}");
-            sb.AppendLine($"Ganancia por llamados provinciales: {this.CalcularGanancia(Llamada.TipoLlamada.Provincial)}");
+            sb.AppendLine($"Ganacia total: ${this.GananciasPorTotal}");
+            sb.AppendLine($"Ganancia por llamados locales: ${this.GananciasPorLocal}");
+            sb.AppendLine($"Ganancia por llamados provinciales: ${this.GananciasPorProvincial}");
             sb.AppendLine($"Detalle de llamada:");
             foreach (Llamada llamada in Llamadas)
             {
