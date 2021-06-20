@@ -42,7 +42,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="MiClase.cs" />
+    <Compile Include="OtraClase.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MisExcepciones\MisExcepciones.csproj">
+      <Project>{7ce638cd-2b97-4b5f-9d6c-76b5b592f2f1}</Project>
+      <Name>MisExcepciones</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

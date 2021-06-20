@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+using MisExcepciones;
+
 namespace Clases
 {
     public class MiClase
@@ -32,7 +34,11 @@ namespace Clases
 
             try
             {
-
+                MiClase nuevaClase = new MiClase();
+            }
+            catch (DivideByZeroException e)
+            {
+                throw new UnaExcepcion("Mensaje UnaExcepcion", e);
             }
         }
 

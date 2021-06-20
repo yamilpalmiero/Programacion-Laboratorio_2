@@ -49,5 +49,15 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Clases\Clases.csproj">
+      <Project>{e66b92c6-73c9-4058-8b7a-ec8045c94184}</Project>
+      <Name>Clases</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MisExcepciones\MisExcepciones.csproj">
+      <Project>{7ce638cd-2b97-4b5f-9d6c-76b5b592f2f1}</Project>
+      <Name>MisExcepciones</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
