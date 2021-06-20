@@ -98,15 +98,54 @@ namespace CentralitaHerencia
             sb.AppendLine($"Detalle de llamada:");
             foreach (Llamada llamada in Llamadas)
             {
-                sb.AppendLine($"{llamada.Mostrar()}");
+                sb.AppendLine($"{llamada.ToString()}");
             }
 
             return sb.ToString();
         }
 
+        public override string ToString()
+        {
+            return this.Mostrar();
+        }
+
         public void OrdenarLlamadas()
         {
             Llamadas.Sort(Llamada.OrdenarPorDuracion);
+        }
+
+        private void AgregarLlamada(Llamada nuevaLlamada)
+        {
+            this.listaDeLlamadas.Add(nuevaLlamada);
+        }
+
+        public static bool operator ==(Centralita c, Llamada llamada)
+        {
+            bool retorno = false;
+
+            foreach (Llamada item in c.listaDeLlamadas)
+            {
+                if (item == llamada)
+                {
+                    retorno = true;
+                }
+            }
+
+            return retorno;
+        }
+        public static bool operator !=(Centralita c, Llamada llamada)
+        {
+            return !(c == llamada);
+        }
+
+        public static Centralita operator +(Centralita c, Llamada nuevaLlamada)
+        {
+            if (c != nuevaLlamada)
+            {
+                c.AgregarLlamada(nuevaLlamada);
+            }
+
+            return c;
         }
         #endregion
     }

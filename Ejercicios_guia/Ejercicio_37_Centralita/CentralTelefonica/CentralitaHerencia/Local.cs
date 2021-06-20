@@ -26,7 +26,7 @@ namespace CentralitaHerencia
         #endregion
 
         #region Propiedades
-        public float CostoLlamada
+        public override float CostoLlamada
         {
             get
             {
@@ -40,7 +40,7 @@ namespace CentralitaHerencia
         {
             return this.duracion * this.costo;
         }
-        public override string Mostrar()
+        protected override string Mostrar()
         {
             StringBuilder sb = new StringBuilder();
 
@@ -48,6 +48,16 @@ namespace CentralitaHerencia
             sb.AppendFormat("Costo: {0}", this.CostoLlamada);
 
             return sb.ToString();
+        }
+
+        public override bool Equals(object obj)
+        {
+            return obj is Local;
+        }
+
+        public override string ToString()
+        {
+            return this.Mostrar();
         }
         #endregion
     }

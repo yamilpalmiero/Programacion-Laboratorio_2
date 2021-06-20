@@ -13,7 +13,7 @@ namespace Ejercicio_37
         static void Main(string[] args)
         {
             // Mi central
-            Centralita c = new Centralita("Yamilo Center");
+            Centralita c = new Centralita("Yamilo Center\n");
 
             // Mis 4 llamadas
             Local l1 = new Local("Bernal", 30, "Rosario", 2.65f);
@@ -23,14 +23,20 @@ namespace Ejercicio_37
 
             // Las llamadas se irán registrando en la Centralita. 
             // La centralita mostrará por pantalla todas las llamadas según las vaya registrando.
-            c.Llamadas.Add(l1);
-            Console.WriteLine(c.Mostrar());
-            c.Llamadas.Add(l2); Console.WriteLine(c.Mostrar());
-            c.Llamadas.Add(l3); Console.WriteLine(c.Mostrar());
-            c.Llamadas.Add(l4); Console.WriteLine(c.Mostrar());
+            try
+            {
+                c += l1;
+                c += l2;
+                c += l3;
+                c += l4;
+            }
+            catch (CentralitaException e)
+            {
+                Console.WriteLine(e.Message);
+            }
 
             c.OrdenarLlamadas();
-            Console.WriteLine(c.Mostrar());
+            Console.WriteLine(c.ToString());
 
             Console.ReadKey();
         }

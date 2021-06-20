@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_37", "Ejercicio_3
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CentralitaHerencia", "CentralitaHerencia\CentralitaHerencia.csproj", "{590C9402-46DB-4F3F-9511-F7B398424EA8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrmMenu", "FrmMenu\FrmMenu.csproj", "{B9EC57BA-B5A1-4BB3-ACB1-3354EE2E3420}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{590C9402-46DB-4F3F-9511-F7B398424EA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{590C9402-46DB-4F3F-9511-F7B398424EA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{590C9402-46DB-4F3F-9511-F7B398424EA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9EC57BA-B5A1-4BB3-ACB1-3354EE2E3420}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9EC57BA-B5A1-4BB3-ACB1-3354EE2E3420}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9EC57BA-B5A1-4BB3-ACB1-3354EE2E3420}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9EC57BA-B5A1-4BB3-ACB1-3354EE2E3420}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

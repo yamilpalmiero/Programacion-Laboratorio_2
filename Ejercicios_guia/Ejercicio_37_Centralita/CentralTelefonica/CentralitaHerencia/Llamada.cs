@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CentralitaHerencia
 {
-    public class Llamada
+    public abstract class Llamada
     {
         #region Atributos
         protected float duracion;
@@ -54,10 +54,11 @@ namespace CentralitaHerencia
                 return this.nroOrigen;
             }
         }
+        public abstract float CostoLlamada { get; }
         #endregion
 
         #region Metodos
-        public virtual string Mostrar()
+        protected virtual string Mostrar()
         {
             StringBuilder sb = new StringBuilder();
 
@@ -77,6 +78,22 @@ namespace CentralitaHerencia
             }
 
             return 0;
+        }
+
+        public static bool operator ==(Llamada l1, Llamada l2)
+        {
+            bool retorno = false;
+
+            if (l1.Equals(l2))
+            {
+                retorno = true;
+            }
+
+            return retorno;
+        }
+        public static bool operator !=(Llamada l1, Llamada l2)
+        {
+            return !(l1 == l2);
         }
         #endregion
     }
