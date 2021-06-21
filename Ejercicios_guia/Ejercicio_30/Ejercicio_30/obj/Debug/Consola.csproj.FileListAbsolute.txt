@@ -1,0 +1,10 @@
+E:\Facultad\Programacion-Laboratorio_2\Ejercicios_guia\Ejercicio_30\Ejercicio_30\bin\Debug\Ejercicio_30.exe.config
+E:\Facultad\Programacion-Laboratorio_2\Ejercicios_guia\Ejercicio_30\Ejercicio_30\bin\Debug\Ejercicio_30.exe
+E:\Facultad\Programacion-Laboratorio_2\Ejercicios_guia\Ejercicio_30\Ejercicio_30\bin\Debug\Ejercicio_30.pdb
+E:\Facultad\Programacion-Laboratorio_2\Ejercicios_guia\Ejercicio_30\Ejercicio_30\bin\Debug\Entidades.dll
+E:\Facultad\Programacion-Laboratorio_2\Ejercicios_guia\Ejercicio_30\Ejercicio_30\bin\Debug\Entidades.pdb
+E:\Facultad\Programacion-Laboratorio_2\Ejercicios_guia\Ejercicio_30\Ejercicio_30\obj\Debug\Consola.csproj.AssemblyReference.cache
+E:\Facultad\Programacion-Laboratorio_2\Ejercicios_guia\Ejercicio_30\Ejercicio_30\obj\Debug\Consola.csproj.CoreCompileInputs.cache
+E:\Facultad\Programacion-Laboratorio_2\Ejercicios_guia\Ejercicio_30\Ejercicio_30\obj\Debug\Consola.csproj.CopyComplete
+E:\Facultad\Programacion-Laboratorio_2\Ejercicios_guia\Ejercicio_30\Ejercicio_30\obj\Debug\Ejercicio_30.exe
+E:\Facultad\Programacion-Laboratorio_2\Ejercicios_guia\Ejercicio_30\Ejercicio_30\obj\Debug\Ejercicio_30.pdb
