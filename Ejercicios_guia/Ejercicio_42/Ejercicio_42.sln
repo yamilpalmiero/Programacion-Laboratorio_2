@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MisExcepciones", "MisExcepc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clases", "Clases\Clases.csproj", "{E66B92C6-73C9-4058-8B7A-EC8045C94184}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebasUnitarias", "PruebasUnitarias\PruebasUnitarias.csproj", "{3905549A-E9B0-4D83-88FC-50C3DECE408A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{E66B92C6-73C9-4058-8B7A-EC8045C94184}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E66B92C6-73C9-4058-8B7A-EC8045C94184}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E66B92C6-73C9-4058-8B7A-EC8045C94184}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3905549A-E9B0-4D83-88FC-50C3DECE408A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3905549A-E9B0-4D83-88FC-50C3DECE408A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3905549A-E9B0-4D83-88FC-50C3DECE408A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3905549A-E9B0-4D83-88FC-50C3DECE408A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

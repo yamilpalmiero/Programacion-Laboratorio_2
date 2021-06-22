@@ -78,6 +78,13 @@ namespace Entidades
                 this.tipo = value;
             }
         }
+        public List<VehiculoDeCarrera> Competidores
+        {
+            get
+            {
+                return this.competidores;
+            }
+        }
 
         public string MostrarDatos()
         {
