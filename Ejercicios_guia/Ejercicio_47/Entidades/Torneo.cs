@@ -11,6 +11,8 @@ namespace Entidades
         private List<T> equipos;
         private string nombre;
 
+        Random random = new Random();
+
         private Torneo()
         {
             this.equipos = new List<T>();
@@ -63,7 +65,29 @@ namespace Entidades
 
         private string CalcularPartido(T e1, T e2)
         {
-            int i = 
+            int scoreE1 = random.Next(0, 5);
+            int scoreE2 = random.Next(0, 5);
+
+            StringBuilder sb = new StringBuilder();
+
+            sb.AppendLine($"{e1.Nombre} ({scoreE1}) - ({scoreE2}) {e2.Nombre}");
+
+            return sb.ToString();
+        }
+
+        public string JugarPartido
+        {
+            get
+            {
+                int index1 = random.Next(0, this.equipos.Count - 1);
+                int index2 = random.Next(0, this.equipos.Count - 1);
+
+                StringBuilder sb = new StringBuilder();
+
+                sb.AppendLine(CalcularPartido(this.equipos[index1], this.equipos[index2]));
+
+                return sb.ToString();
+            }
         }
     }
 }

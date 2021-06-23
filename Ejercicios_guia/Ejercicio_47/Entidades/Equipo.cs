@@ -44,7 +44,7 @@ namespace Entidades
 
         public string Ficha()
         {
-            return $"{this.Nombre} funcado el {this.fechaCreacion}";
+            return $"{this.Nombre}, fundado el {this.fechaCreacion.ToShortDateString()}";
         }
     }
 }
