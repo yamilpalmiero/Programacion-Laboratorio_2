@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Entidades
 {
-    public class Competencia
+    public class Competencia<T> where T : VehiculoDeCarrera
     {
         public enum TipoCompetencia
         {
