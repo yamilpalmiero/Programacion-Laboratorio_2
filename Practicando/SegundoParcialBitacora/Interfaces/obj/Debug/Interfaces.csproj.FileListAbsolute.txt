@@ -1,0 +1,6 @@
+E:\Facultad\Programacion-Laboratorio_2\Practicando\SegundoParcialBitacora\Interfaces\bin\Debug\Interfaces.dll
+E:\Facultad\Programacion-Laboratorio_2\Practicando\SegundoParcialBitacora\Interfaces\bin\Debug\Interfaces.pdb
+E:\Facultad\Programacion-Laboratorio_2\Practicando\SegundoParcialBitacora\Interfaces\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+E:\Facultad\Programacion-Laboratorio_2\Practicando\SegundoParcialBitacora\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+E:\Facultad\Programacion-Laboratorio_2\Practicando\SegundoParcialBitacora\Interfaces\obj\Debug\Interfaces.dll
+E:\Facultad\Programacion-Laboratorio_2\Practicando\SegundoParcialBitacora\Interfaces\obj\Debug\Interfaces.pdb

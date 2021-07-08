@@ -1,0 +1,15 @@
+E:\Facultad\Programacion-Laboratorio_2\Practicando\SegundoParcialBitacora\SegundoParcialBitacora\bin\Debug\SegundoParcialBitacora.exe.config
+E:\Facultad\Programacion-Laboratorio_2\Practicando\SegundoParcialBitacora\SegundoParcialBitacora\bin\Debug\SegundoParcialBitacora.exe
+E:\Facultad\Programacion-Laboratorio_2\Practicando\SegundoParcialBitacora\SegundoParcialBitacora\bin\Debug\SegundoParcialBitacora.pdb
+E:\Facultad\Programacion-Laboratorio_2\Practicando\SegundoParcialBitacora\SegundoParcialBitacora\bin\Debug\Entidades.dll
+E:\Facultad\Programacion-Laboratorio_2\Practicando\SegundoParcialBitacora\SegundoParcialBitacora\bin\Debug\Interfaces.dll
+E:\Facultad\Programacion-Laboratorio_2\Practicando\SegundoParcialBitacora\SegundoParcialBitacora\bin\Debug\Entidades.pdb
+E:\Facultad\Programacion-Laboratorio_2\Practicando\SegundoParcialBitacora\SegundoParcialBitacora\bin\Debug\Interfaces.pdb
+E:\Facultad\Programacion-Laboratorio_2\Practicando\SegundoParcialBitacora\SegundoParcialBitacora\obj\Debug\SegundoParcialBitacora.csproj.AssemblyReference.cache
+E:\Facultad\Programacion-Laboratorio_2\Practicando\SegundoParcialBitacora\SegundoParcialBitacora\obj\Debug\SegundoParcialBitacora.frmPpal.resources
+E:\Facultad\Programacion-Laboratorio_2\Practicando\SegundoParcialBitacora\SegundoParcialBitacora\obj\Debug\SegundoParcialBitacora.Properties.Resources.resources
+E:\Facultad\Programacion-Laboratorio_2\Practicando\SegundoParcialBitacora\SegundoParcialBitacora\obj\Debug\SegundoParcialBitacora.csproj.GenerateResource.cache
+E:\Facultad\Programacion-Laboratorio_2\Practicando\SegundoParcialBitacora\SegundoParcialBitacora\obj\Debug\SegundoParcialBitacora.csproj.CoreCompileInputs.cache
+E:\Facultad\Programacion-Laboratorio_2\Practicando\SegundoParcialBitacora\SegundoParcialBitacora\obj\Debug\SegundoParcialBitacora.csproj.CopyComplete
+E:\Facultad\Programacion-Laboratorio_2\Practicando\SegundoParcialBitacora\SegundoParcialBitacora\obj\Debug\SegundoParcialBitacora.exe
+E:\Facultad\Programacion-Laboratorio_2\Practicando\SegundoParcialBitacora\SegundoParcialBitacora\obj\Debug\SegundoParcialBitacora.pdb

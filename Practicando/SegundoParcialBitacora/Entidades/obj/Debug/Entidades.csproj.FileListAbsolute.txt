@@ -1,0 +1,9 @@
+E:\Facultad\Programacion-Laboratorio_2\Practicando\SegundoParcialBitacora\Entidades\bin\Debug\Entidades.dll
+E:\Facultad\Programacion-Laboratorio_2\Practicando\SegundoParcialBitacora\Entidades\bin\Debug\Entidades.pdb
+E:\Facultad\Programacion-Laboratorio_2\Practicando\SegundoParcialBitacora\Entidades\bin\Debug\Interfaces.dll
+E:\Facultad\Programacion-Laboratorio_2\Practicando\SegundoParcialBitacora\Entidades\bin\Debug\Interfaces.pdb
+E:\Facultad\Programacion-Laboratorio_2\Practicando\SegundoParcialBitacora\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+E:\Facultad\Programacion-Laboratorio_2\Practicando\SegundoParcialBitacora\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+E:\Facultad\Programacion-Laboratorio_2\Practicando\SegundoParcialBitacora\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+E:\Facultad\Programacion-Laboratorio_2\Practicando\SegundoParcialBitacora\Entidades\obj\Debug\Entidades.dll
+E:\Facultad\Programacion-Laboratorio_2\Practicando\SegundoParcialBitacora\Entidades\obj\Debug\Entidades.pdb
