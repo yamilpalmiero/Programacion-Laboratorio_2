@@ -1,0 +1,7 @@
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_15\MiClaseException\bin\Debug\MiClaseException.exe.config
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_15\MiClaseException\bin\Debug\MiClaseException.exe
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_15\MiClaseException\bin\Debug\MiClaseException.pdb
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_15\MiClaseException\obj\Debug\MiClaseException.csproj.AssemblyReference.cache
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_15\MiClaseException\obj\Debug\MiClaseException.csproj.CoreCompileInputs.cache
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_15\MiClaseException\obj\Debug\MiClaseException.exe
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_15\MiClaseException\obj\Debug\MiClaseException.pdb
