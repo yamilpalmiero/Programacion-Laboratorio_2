@@ -1,0 +1,10 @@
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_InterfaceSerializadoraGenerica\View\bin\Debug\View.exe.config
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_InterfaceSerializadoraGenerica\View\bin\Debug\View.exe
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_InterfaceSerializadoraGenerica\View\bin\Debug\View.pdb
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_InterfaceSerializadoraGenerica\View\bin\Debug\Entidades.dll
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_InterfaceSerializadoraGenerica\View\bin\Debug\Entidades.pdb
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_InterfaceSerializadoraGenerica\View\obj\Debug\View.csproj.AssemblyReference.cache
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_InterfaceSerializadoraGenerica\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_InterfaceSerializadoraGenerica\View\obj\Debug\View.csproj.CopyComplete
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_InterfaceSerializadoraGenerica\View\obj\Debug\View.exe
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_InterfaceSerializadoraGenerica\View\obj\Debug\View.pdb

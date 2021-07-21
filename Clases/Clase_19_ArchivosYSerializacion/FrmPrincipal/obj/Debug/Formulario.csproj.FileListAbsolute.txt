@@ -1,0 +1,13 @@
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_ArchivosYSerializacion\FrmPrincipal\obj\Debug\Formulario.csproj.AssemblyReference.cache
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_ArchivosYSerializacion\FrmPrincipal\obj\Debug\Formulario.FrmPrincipal.resources
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_ArchivosYSerializacion\FrmPrincipal\obj\Debug\FrmPrincipal.Properties.Resources.resources
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_ArchivosYSerializacion\FrmPrincipal\obj\Debug\Formulario.csproj.GenerateResource.cache
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_ArchivosYSerializacion\FrmPrincipal\obj\Debug\Formulario.csproj.CoreCompileInputs.cache
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_ArchivosYSerializacion\FrmPrincipal\bin\Debug\FrmPrincipal.exe.config
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_ArchivosYSerializacion\FrmPrincipal\bin\Debug\FrmPrincipal.exe
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_ArchivosYSerializacion\FrmPrincipal\bin\Debug\FrmPrincipal.pdb
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_ArchivosYSerializacion\FrmPrincipal\bin\Debug\Biblioteca.dll
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_ArchivosYSerializacion\FrmPrincipal\bin\Debug\Biblioteca.pdb
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_ArchivosYSerializacion\FrmPrincipal\obj\Debug\Formulario.csproj.CopyComplete
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_ArchivosYSerializacion\FrmPrincipal\obj\Debug\FrmPrincipal.exe
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_ArchivosYSerializacion\FrmPrincipal\obj\Debug\FrmPrincipal.pdb

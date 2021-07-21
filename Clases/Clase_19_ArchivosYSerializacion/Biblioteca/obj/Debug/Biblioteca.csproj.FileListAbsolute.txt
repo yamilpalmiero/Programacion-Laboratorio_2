@@ -1,0 +1,6 @@
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_ArchivosYSerializacion\Biblioteca\obj\Debug\Biblioteca.csproj.AssemblyReference.cache
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_ArchivosYSerializacion\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_ArchivosYSerializacion\Biblioteca\bin\Debug\Biblioteca.dll
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_ArchivosYSerializacion\Biblioteca\bin\Debug\Biblioteca.pdb
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_ArchivosYSerializacion\Biblioteca\obj\Debug\Biblioteca.dll
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_ArchivosYSerializacion\Biblioteca\obj\Debug\Biblioteca.pdb

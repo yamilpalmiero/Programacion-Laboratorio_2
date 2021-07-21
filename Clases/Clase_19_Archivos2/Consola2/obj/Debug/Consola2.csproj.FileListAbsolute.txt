@@ -1,0 +1,10 @@
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_Archivos2\Consola2\bin\Debug\Consola2.exe.config
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_Archivos2\Consola2\bin\Debug\Consola2.exe
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_Archivos2\Consola2\bin\Debug\Consola2.pdb
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_Archivos2\Consola2\bin\Debug\Clase_19_Archivos2.dll
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_Archivos2\Consola2\bin\Debug\Clase_19_Archivos2.pdb
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_Archivos2\Consola2\obj\Debug\Consola2.csproj.CoreCompileInputs.cache
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_Archivos2\Consola2\obj\Debug\Consola2.csproj.CopyComplete
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_Archivos2\Consola2\obj\Debug\Consola2.exe
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_Archivos2\Consola2\obj\Debug\Consola2.pdb
+E:\Facultad\Programacion-Laboratorio_2\Clases\Clase_19_Archivos2\Consola2\obj\Debug\Consola2.csproj.AssemblyReference.cache
