@@ -33,6 +33,10 @@ namespace Views
             this.btnBD = new System.Windows.Forms.Button();
             this.btnBinario = new System.Windows.Forms.Button();
             this.btnSalir = new System.Windows.Forms.Button();
+            this.lblActualizar = new System.Windows.Forms.Label();
+            this.btnComenzar = new System.Windows.Forms.Button();
+            this.rtbActualizar = new System.Windows.Forms.RichTextBox();
+            this.ofdImportar = new System.Windows.Forms.OpenFileDialog();
             this.SuspendLayout();
             // 
             // btnXML
@@ -78,18 +82,56 @@ namespace Views
             this.btnSalir.UseVisualStyleBackColor = true;
             this.btnSalir.Click += new System.EventHandler(this.btnSalir_Click);
             // 
-            // FrmLlamador
+            // lblActualizar
+            // 
+            this.lblActualizar.AutoSize = true;
+            this.lblActualizar.Location = new System.Drawing.Point(352, 599);
+            this.lblActualizar.Name = "lblActualizar";
+            this.lblActualizar.Size = new System.Drawing.Size(70, 17);
+            this.lblActualizar.TabIndex = 4;
+            this.lblActualizar.Text = "Actualizar";
+            // 
+            // btnComenzar
+            // 
+            this.btnComenzar.Location = new System.Drawing.Point(48, 614);
+            this.btnComenzar.Name = "btnComenzar";
+            this.btnComenzar.Size = new System.Drawing.Size(193, 69);
+            this.btnComenzar.TabIndex = 5;
+            this.btnComenzar.Text = "Comenzar";
+            this.btnComenzar.UseVisualStyleBackColor = true;
+            this.btnComenzar.Click += new System.EventHandler(this.btnComenzar_Click);
+            // 
+            // rtbActualizar
+            // 
+            this.rtbActualizar.Location = new System.Drawing.Point(275, 625);
+            this.rtbActualizar.Name = "rtbActualizar";
+            this.rtbActualizar.Size = new System.Drawing.Size(209, 118);
+            this.rtbActualizar.TabIndex = 6;
+            this.rtbActualizar.Text = "";
+            // 
+            // ofdImportar
+            // 
+            this.ofdImportar.FileName = "Seleccionar";
+            this.ofdImportar.Filter = "Archivos de texto (*.txt)|*.txt";
+            // 
+            // FrmPrincipal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(527, 601);
+            this.ClientSize = new System.Drawing.Size(527, 794);
+            this.Controls.Add(this.rtbActualizar);
+            this.Controls.Add(this.btnComenzar);
+            this.Controls.Add(this.lblActualizar);
             this.Controls.Add(this.btnSalir);
             this.Controls.Add(this.btnBinario);
             this.Controls.Add(this.btnBD);
             this.Controls.Add(this.btnXML);
-            this.Name = "FrmLlamador";
+            this.Name = "FrmPrincipal";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Vacunatorio UTN";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.FrmPrincipal_FormClosing);
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -99,6 +141,10 @@ namespace Views
         private System.Windows.Forms.Button btnBD;
         private System.Windows.Forms.Button btnBinario;
         private System.Windows.Forms.Button btnSalir;
+        private System.Windows.Forms.Label lblActualizar;
+        private System.Windows.Forms.Button btnComenzar;
+        private System.Windows.Forms.RichTextBox rtbActualizar;
+        private System.Windows.Forms.OpenFileDialog ofdImportar;
     }
 }
 

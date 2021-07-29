@@ -1,16 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Entidades
+﻿namespace Entidades
 {
     public class SimuladorDeAtencion<T>
-    {
-        public delegate void SimularVacunacion(object param);
+    { 
+        public event SimuladoDelegate<T> AvisoDeUso;
+        public event FinalDelegate FinDeUso;
 
-        public event SimularVacunacion AvisoDeUso;
-        public event SimularVacunacion FinDeUso;
+        public void SimularVacunacion(object param)
+        {
+
+        }
     }
 }

@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 using System.Xml;
 using System.Xml.Serialization;
 
@@ -13,12 +10,26 @@ namespace Entidades
         public bool Guardar(string archivo, T datos)
         {
             bool retorno = false;
-            XmlSerializer nuevoXml = new XmlSerializer(typeof(T));
 
-            using (XmlTextWriter nuevoTW = new XmlTextWriter(archivo, Encoding.UTF8))
+            if (datos == null)
             {
-                nuevoXml.Serialize(nuevoTW, datos);
-                retorno = true;
+                throw new System.Exception("La fuente de datos no es valida.");
+            }
+            else
+            {
+                try
+                {
+                    using (XmlTextWriter escritor = new XmlTextWriter(archivo, Encoding.UTF8))
+                    {
+                        XmlSerializer serializador = new XmlSerializer(typeof(T));
+                        serializador.Serialize(escritor, datos);
+                        retorno = true;
+                    }
+                }
+                catch (Exception e)
+                {
+                    throw new Exception("Error de serializacion: " + e.Message, e);
+                }
             }
 
             return retorno;
@@ -30,11 +41,11 @@ namespace Entidades
         public bool Leer(string archivo, out T datos)
         {
             bool retorno = false;
-            XmlSerializer nuevoXml = new XmlSerializer(typeof(T));
+            XmlSerializer deserializador = new XmlSerializer(typeof(T));
 
-            using (XmlTextReader nuevoTR = new XmlTextReader(archivo))
+            using (XmlTextReader lector = new XmlTextReader(archivo))
             {
-                datos = (T)nuevoXml.Deserialize(nuevoTR);
+                datos = (T)deserializador.Deserialize(lector);
                 retorno = true;
             }
 

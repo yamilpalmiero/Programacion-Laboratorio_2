@@ -1,9 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Data.SqlClient;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Entidades
 {
@@ -29,6 +26,7 @@ namespace Entidades
             {
                 comando.Connection = conexion;
                 comando.CommandText = "INSERT INTO Pacientes(Nombre, Apellido, Turno) VALUES(@Nombre, @Apellido, @Turno)";
+                comando.Parameters.Clear();
                 comando.Parameters.AddWithValue("@Nombre", p.Nombre);
                 comando.Parameters.AddWithValue("@Apellido", p.Apellido);
                 comando.Parameters.AddWithValue("@Turno", p.Turno);
@@ -69,9 +67,9 @@ namespace Entidades
 
                 SqlDataReader oDr = comando.ExecuteReader();
 
-                if(oDr.Read() != false)
+                if (oDr.Read() != false)
                 {
-                    paciente = new Paciente(Convert.ToInt32(oDr["Turno"]), oDr["Nombre"].ToString(), oDr["Apellido"].ToString());
+                    paciente = new Paciente(oDr["Nombre"].ToString(), oDr["Apellido"].ToString(), Convert.ToInt32(oDr["Turno"]));
                 }
 
                 return paciente;
@@ -110,7 +108,7 @@ namespace Entidades
                     string nombre = oDr["Nombre"].ToString();
                     string apellido = oDr["Apellido"].ToString();
 
-                    Paciente p = new Paciente(turno, nombre, apellido);
+                    Paciente p = new Paciente(nombre, apellido, turno);
                     lista.Add(p);
                 }
 

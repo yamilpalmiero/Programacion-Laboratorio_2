@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
+﻿using System.IO;
+using System.Runtime.Serialization;
 using System.Runtime.Serialization.Formatters.Binary;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Entidades
 {
@@ -12,21 +8,21 @@ namespace Entidades
     {
         private string ruta;
 
-        public Binario(string ruta)
-        {
-            this.ruta = ruta;
-        }
-
-
-
 
         public void Guardar(T objeto)
         {
-            using (Stream stream = new FileStream(this.ruta, FileMode.Create))//Puede ser FileMode.Append
+            try
             {
-                BinaryFormatter formatter = new BinaryFormatter();
+                using (Stream stream = new FileStream(this.ruta, FileMode.Create))//Puede ser FileMode.Append
+                {
+                    BinaryFormatter formatter = new BinaryFormatter();
 
-                formatter.Serialize(stream, objeto);
+                    formatter.Serialize(stream, objeto);
+                }
+            }
+            catch(SerializationException e)
+            {
+                throw new SerializationException("No se pudo serializar." + e.Message, e);
             }
         }
 

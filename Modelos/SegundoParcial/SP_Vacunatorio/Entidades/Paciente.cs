@@ -1,22 +1,25 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace Entidades
 {
+    [Serializable]
     public class Paciente
     {
         private string nombre;
         private string apellido;
         private int turno;
 
-        public Paciente(int turno, string nombre, string apellido)
+        public Paciente()
         {
-            this.turno = turno;
+
+        }
+
+        public Paciente(string nombre, string apellido, int turno)
+        {
             this.nombre = nombre;
             this.apellido = apellido;
+            this.turno = turno;
         }
 
         public string Nombre
