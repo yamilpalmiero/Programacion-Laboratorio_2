@@ -1,0 +1,6 @@
+C:\Users\Yamil\Desktop\20210717-RSP - alumno\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Yamil\Desktop\20210717-RSP - alumno\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Yamil\Desktop\20210717-RSP - alumno\Entidades\bin\Debug\Entidades.dll
+C:\Users\Yamil\Desktop\20210717-RSP - alumno\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Yamil\Desktop\20210717-RSP - alumno\Entidades\obj\Debug\Entidades.dll
+C:\Users\Yamil\Desktop\20210717-RSP - alumno\Entidades\obj\Debug\Entidades.pdb
