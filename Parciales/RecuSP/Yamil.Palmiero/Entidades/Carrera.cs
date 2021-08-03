@@ -83,6 +83,7 @@ namespace Entidades
 
                             if (InformarLlegada != null)
                             {
+                                //Para usar los gestores de archivos en esta clase los debo instanciar
                                 GestorBaseDeDatos gestorDB = new GestorBaseDeDatos();
                                 GestorDeArchivos archivo = new GestorDeArchivos(AppDomain.CurrentDomain.BaseDirectory + "\\Carreras.txt");
                                 ((IGuardar<AutoF1>)archivo).Guardar(auto);//Almacenar la llegada de los autos en un archivo de texto

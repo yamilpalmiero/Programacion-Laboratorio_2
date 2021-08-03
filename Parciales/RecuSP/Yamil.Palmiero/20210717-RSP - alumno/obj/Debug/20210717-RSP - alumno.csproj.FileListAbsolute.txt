@@ -12,3 +12,17 @@ C:\Users\Yamil\Desktop\20210717-RSP - alumno\20210717-RSP - alumno\obj\Debug\202
 C:\Users\Yamil\Desktop\20210717-RSP - alumno\20210717-RSP - alumno\obj\Debug\20210717-RSP - alumno.csproj.CopyComplete
 C:\Users\Yamil\Desktop\20210717-RSP - alumno\20210717-RSP - alumno\obj\Debug\20210717-RSP - alumno.exe
 C:\Users\Yamil\Desktop\20210717-RSP - alumno\20210717-RSP - alumno\obj\Debug\20210717-RSP - alumno.pdb
+E:\Facultad\Programacion-Laboratorio_2\Parciales\RecuSP\Yamil.Palmiero\20210717-RSP - alumno\bin\Debug\20210717-RSP - alumno.exe.config
+E:\Facultad\Programacion-Laboratorio_2\Parciales\RecuSP\Yamil.Palmiero\20210717-RSP - alumno\bin\Debug\20210717-RSP - alumno.exe
+E:\Facultad\Programacion-Laboratorio_2\Parciales\RecuSP\Yamil.Palmiero\20210717-RSP - alumno\bin\Debug\20210717-RSP - alumno.pdb
+E:\Facultad\Programacion-Laboratorio_2\Parciales\RecuSP\Yamil.Palmiero\20210717-RSP - alumno\bin\Debug\Entidades.dll
+E:\Facultad\Programacion-Laboratorio_2\Parciales\RecuSP\Yamil.Palmiero\20210717-RSP - alumno\bin\Debug\Entidades.pdb
+E:\Facultad\Programacion-Laboratorio_2\Parciales\RecuSP\Yamil.Palmiero\20210717-RSP - alumno\obj\Debug\20210717-RSP - alumno.csproj.AssemblyReference.cache
+E:\Facultad\Programacion-Laboratorio_2\Parciales\RecuSP\Yamil.Palmiero\20210717-RSP - alumno\obj\Debug\_20210717_RSP___alumno.FrmCarrera.resources
+E:\Facultad\Programacion-Laboratorio_2\Parciales\RecuSP\Yamil.Palmiero\20210717-RSP - alumno\obj\Debug\_20210717_RSP___alumno.FrmContador.resources
+E:\Facultad\Programacion-Laboratorio_2\Parciales\RecuSP\Yamil.Palmiero\20210717-RSP - alumno\obj\Debug\_20210717_RSP___alumno.Properties.Resources.resources
+E:\Facultad\Programacion-Laboratorio_2\Parciales\RecuSP\Yamil.Palmiero\20210717-RSP - alumno\obj\Debug\20210717-RSP - alumno.csproj.GenerateResource.cache
+E:\Facultad\Programacion-Laboratorio_2\Parciales\RecuSP\Yamil.Palmiero\20210717-RSP - alumno\obj\Debug\20210717-RSP - alumno.csproj.CoreCompileInputs.cache
+E:\Facultad\Programacion-Laboratorio_2\Parciales\RecuSP\Yamil.Palmiero\20210717-RSP - alumno\obj\Debug\20210717-RSP - alumno.csproj.CopyComplete
+E:\Facultad\Programacion-Laboratorio_2\Parciales\RecuSP\Yamil.Palmiero\20210717-RSP - alumno\obj\Debug\20210717-RSP - alumno.exe
+E:\Facultad\Programacion-Laboratorio_2\Parciales\RecuSP\Yamil.Palmiero\20210717-RSP - alumno\obj\Debug\20210717-RSP - alumno.pdb

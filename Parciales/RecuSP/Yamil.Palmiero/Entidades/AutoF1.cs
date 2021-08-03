@@ -75,7 +75,7 @@ namespace Entidades
         /// </summary>
         public void Acelerar()
         {
-            this.UbicacionEnPista = this.UbicacionEnPista + this.Velocidad;
+            this.UbicacionEnPista = this.UbicacionEnPista + this.Velocidad;//UbicacionEnPista += Velocidad;
         }
 
         /// <summary>

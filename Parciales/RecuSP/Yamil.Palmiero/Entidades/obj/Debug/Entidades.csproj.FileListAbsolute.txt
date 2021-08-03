@@ -4,3 +4,9 @@ C:\Users\Yamil\Desktop\20210717-RSP - alumno\Entidades\bin\Debug\Entidades.dll
 C:\Users\Yamil\Desktop\20210717-RSP - alumno\Entidades\bin\Debug\Entidades.pdb
 C:\Users\Yamil\Desktop\20210717-RSP - alumno\Entidades\obj\Debug\Entidades.dll
 C:\Users\Yamil\Desktop\20210717-RSP - alumno\Entidades\obj\Debug\Entidades.pdb
+E:\Facultad\Programacion-Laboratorio_2\Parciales\RecuSP\Yamil.Palmiero\Entidades\bin\Debug\Entidades.dll
+E:\Facultad\Programacion-Laboratorio_2\Parciales\RecuSP\Yamil.Palmiero\Entidades\bin\Debug\Entidades.pdb
+E:\Facultad\Programacion-Laboratorio_2\Parciales\RecuSP\Yamil.Palmiero\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+E:\Facultad\Programacion-Laboratorio_2\Parciales\RecuSP\Yamil.Palmiero\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+E:\Facultad\Programacion-Laboratorio_2\Parciales\RecuSP\Yamil.Palmiero\Entidades\obj\Debug\Entidades.dll
+E:\Facultad\Programacion-Laboratorio_2\Parciales\RecuSP\Yamil.Palmiero\Entidades\obj\Debug\Entidades.pdb

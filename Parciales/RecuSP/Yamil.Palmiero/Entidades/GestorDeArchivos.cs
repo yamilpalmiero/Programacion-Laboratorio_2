@@ -81,7 +81,7 @@ namespace Entidades
         /// Metodo que guarda la lista de vehiculos en un archivo de texto
         /// </summary>
         /// <param name="carrera">Archivo a guardar</param>
-        public void Guardar(Carrera carrera)//IMPLICITA serializa XML
+        public void Guardar(Carrera carrera)//IMPLICITA serializa a XML
         {
             try
             {

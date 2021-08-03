@@ -25,7 +25,7 @@ namespace Entidades
         /// 
         /// </summary>
         /// <param name="autoF1">Auto</param>
-        public void Guardar(AutoF1 autoF1)//Implementacion de la Interfaz IGuardar. Almacena la llegada de los autos a la meta
+        public void Guardar(AutoF1 autoF1)//Implementacion de la Interfaz IGuardar. Almacena la llegada de los autos a la meta.
         {
             try
             {

@@ -50,7 +50,7 @@ namespace _20210717_RSP___alumno
         private void FrmCarrera_Shown(object sender, EventArgs e)
         {
             //Alumno: Instanciar hilo secundario
-            thread = new Thread(carrera.IniciarCarrera);//Instancio el hilo secundario
+            thread = new Thread(carrera.IniciarCarrera);//Instancio el hilo secundario con el metodo que iba en el hilo secundario.
             thread.Start();//Darle start SIEMPRE
         }
 
@@ -59,7 +59,7 @@ namespace _20210717_RSP___alumno
         /// </summary>
         private void AvanzarAuto()
         {
-            //Alumno:Metodo que maneja el evento InformarAvance
+            //Alumno:Metodo que maneja el evento InformarAvance => este metodo sera el manejador de InformarAvance (InformarAvance += AvanzarAuto)
             if (this.pcbAutoUno.InvokeRequired && this.pcbAutoDos.InvokeRequired)
             {
                 this.pcbAutoUno.BeginInvoke((MethodInvoker)delegate ()
@@ -96,7 +96,7 @@ namespace _20210717_RSP___alumno
         /// <param name="mensaje"></param>
         private void ImprimirMensaje(string mensaje)
         {
-            //Alumno:Metodo que maneja el evento InformarLlegada
+            //Alumno:Metodo que maneja el evento InformarLlegada => este metodo sera el manejador de InformarLlegada (InformarLlegada += ImprimirMensaje)
             MessageBox.Show(mensaje, "Llegadas", MessageBoxButtons.OK, MessageBoxIcon.Hand);
         }
 
@@ -107,8 +107,8 @@ namespace _20210717_RSP___alumno
             thread.Abort();//SIEMPRE matar los threads en el FormClosing
 
             //Alumno:serializar carrera
-            GestorDeArchivos gestorArchivo = new GestorDeArchivos(AppDomain.CurrentDomain.BaseDirectory + "Carrera.xml");//Serializo la carrera con una instancia del gestor
-            gestorArchivo.Guardar(carrera);
+            GestorDeArchivos gestorXml = new GestorDeArchivos(AppDomain.CurrentDomain.BaseDirectory + "Carrera.xml");//Serializo la carrera con una instancia del gestor
+            gestorXml.Guardar(carrera);
         }
     }
 }
