@@ -1,12 +1,7 @@
-﻿using System;
+﻿using Entidades;
+using System;
 using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
 using System.Threading;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Formulario
@@ -16,6 +11,8 @@ namespace Formulario
         private List<Bombero> bomberos;
         private List<PictureBox> fuegos;
         private List<Thread> salidasEnAccion;
+
+
         public Cuartel()
         {
             InitializeComponent();
@@ -118,13 +115,109 @@ namespace Formulario
 
         private void DespacharServicio(int index)
         {
-            this.fuegos[index].Visible = true;
-            this.bomberos[index].AtenderSalida();
+            try
+            {
+                if (this.fuegos[index].Visible)
+                {
+                    throw new BomberoOcupadoException("El bombero está apagando otro fuego.");
+                }
+                else
+                {
+                    this.fuegos[index].Visible = true;
+                    Thread nuevaSalida = new Thread(new ParameterizedThreadStart(this.bomberos[index].AtenderSalida));
+                    nuevaSalida.Start(index);
+                    salidasEnAccion.Add(nuevaSalida);
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+        }
+
+
+
+        private void InvokeDelegate(int bomberoIndex)
+        {
+            FinDeSalida finSalida = new FinDeSalida(this.FinalDeSalida);
+            this.Invoke(finSalida, new object[] { bomberoIndex });
         }
 
         private void FinalDeSalida(int bomberoIndex)
         {
-            this.fuegos[bomberoIndex].Visible = false;
+            if (this.fuegos[bomberoIndex].InvokeRequired)
+                this.InvokeDelegate(bomberoIndex);
+            else
+                this.fuegos[bomberoIndex].Visible = false;
+        }
+
+
+
+
+        private void Cuartel_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            if (MessageBox.Show("Desea salir?", "Salir", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
+            {
+                foreach (Thread item in salidasEnAccion)//Asegurarse de que ningun hilo de la lista quede vivo
+                {
+                    if (item.IsAlive)
+                    {
+                        item.Abort();
+                    }
+                }
+            }
+            else
+            {
+                e.Cancel = true;
+            }
+        }
+
+        private void btnReporte1_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                this.bomberos[0].Guardar(bomberos[0]);
+            }
+            catch (BomberoOcupadoException ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+        }
+
+        private void btnReporte2_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                this.bomberos[1].Guardar(bomberos[1]);
+            }
+            catch (BomberoOcupadoException ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+        }
+
+        private void btnReporte3_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                this.bomberos[2].Guardar(bomberos[2]);
+            }
+            catch (BomberoOcupadoException ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+        }
+
+        private void btnReporte4_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                this.bomberos[3].Guardar(bomberos[3]);
+            }
+            catch (BomberoOcupadoException ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
         }
     }
 }

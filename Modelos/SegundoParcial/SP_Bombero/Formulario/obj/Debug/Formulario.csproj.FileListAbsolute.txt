@@ -11,3 +11,16 @@ J:\Visual UTN 2019\Examenes\20201119-SP\Formulario\obj\Debug\Formulario.csproj.C
 J:\Visual UTN 2019\Examenes\20201119-SP\Formulario\obj\Debug\Formulario.exe
 J:\Visual UTN 2019\Examenes\20201119-SP\Formulario\obj\Debug\Formulario.pdb
 J:\Visual UTN 2019\Examenes\20201119-SP\Formulario\obj\Debug\Formulario.Cuartel.resources
+E:\Facultad\Programacion-Laboratorio_2\Modelos\SegundoParcial\SP_Bombero\Formulario\bin\Debug\Formulario.exe.config
+E:\Facultad\Programacion-Laboratorio_2\Modelos\SegundoParcial\SP_Bombero\Formulario\bin\Debug\Formulario.exe
+E:\Facultad\Programacion-Laboratorio_2\Modelos\SegundoParcial\SP_Bombero\Formulario\bin\Debug\Formulario.pdb
+E:\Facultad\Programacion-Laboratorio_2\Modelos\SegundoParcial\SP_Bombero\Formulario\bin\Debug\Entidades.dll
+E:\Facultad\Programacion-Laboratorio_2\Modelos\SegundoParcial\SP_Bombero\Formulario\bin\Debug\Entidades.pdb
+E:\Facultad\Programacion-Laboratorio_2\Modelos\SegundoParcial\SP_Bombero\Formulario\obj\Debug\Formulario.csproj.AssemblyReference.cache
+E:\Facultad\Programacion-Laboratorio_2\Modelos\SegundoParcial\SP_Bombero\Formulario\obj\Debug\Formulario.Cuartel.resources
+E:\Facultad\Programacion-Laboratorio_2\Modelos\SegundoParcial\SP_Bombero\Formulario\obj\Debug\Formulario.Properties.Resources.resources
+E:\Facultad\Programacion-Laboratorio_2\Modelos\SegundoParcial\SP_Bombero\Formulario\obj\Debug\Formulario.csproj.GenerateResource.cache
+E:\Facultad\Programacion-Laboratorio_2\Modelos\SegundoParcial\SP_Bombero\Formulario\obj\Debug\Formulario.csproj.CoreCompileInputs.cache
+E:\Facultad\Programacion-Laboratorio_2\Modelos\SegundoParcial\SP_Bombero\Formulario\obj\Debug\Formulario.csproj.CopyComplete
+E:\Facultad\Programacion-Laboratorio_2\Modelos\SegundoParcial\SP_Bombero\Formulario\obj\Debug\Formulario.exe
+E:\Facultad\Programacion-Laboratorio_2\Modelos\SegundoParcial\SP_Bombero\Formulario\obj\Debug\Formulario.pdb

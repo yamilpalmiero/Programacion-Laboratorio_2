@@ -48,9 +48,10 @@
             // 
             // btnEnviar1
             // 
-            this.btnEnviar1.Location = new System.Drawing.Point(205, 13);
+            this.btnEnviar1.Location = new System.Drawing.Point(273, 16);
+            this.btnEnviar1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnEnviar1.Name = "btnEnviar1";
-            this.btnEnviar1.Size = new System.Drawing.Size(64, 64);
+            this.btnEnviar1.Size = new System.Drawing.Size(85, 79);
             this.btnEnviar1.TabIndex = 0;
             this.btnEnviar1.Text = "Enviar";
             this.btnEnviar1.UseVisualStyleBackColor = true;
@@ -59,44 +60,49 @@
             // bombero1
             // 
             this.bombero1.Image = global::Formulario.Properties.Resources.fireman;
-            this.bombero1.Location = new System.Drawing.Point(13, 13);
+            this.bombero1.Location = new System.Drawing.Point(17, 16);
+            this.bombero1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.bombero1.Name = "bombero1";
-            this.bombero1.Size = new System.Drawing.Size(64, 64);
+            this.bombero1.Size = new System.Drawing.Size(85, 79);
             this.bombero1.TabIndex = 1;
             this.bombero1.TabStop = false;
             // 
             // bombero2
             // 
             this.bombero2.Image = global::Formulario.Properties.Resources.fireman;
-            this.bombero2.Location = new System.Drawing.Point(13, 85);
+            this.bombero2.Location = new System.Drawing.Point(17, 105);
+            this.bombero2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.bombero2.Name = "bombero2";
-            this.bombero2.Size = new System.Drawing.Size(64, 64);
+            this.bombero2.Size = new System.Drawing.Size(85, 79);
             this.bombero2.TabIndex = 3;
             this.bombero2.TabStop = false;
             // 
             // bombero3
             // 
             this.bombero3.Image = global::Formulario.Properties.Resources.fireman;
-            this.bombero3.Location = new System.Drawing.Point(13, 155);
+            this.bombero3.Location = new System.Drawing.Point(17, 191);
+            this.bombero3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.bombero3.Name = "bombero3";
-            this.bombero3.Size = new System.Drawing.Size(64, 64);
+            this.bombero3.Size = new System.Drawing.Size(85, 79);
             this.bombero3.TabIndex = 4;
             this.bombero3.TabStop = false;
             // 
             // bombero4
             // 
             this.bombero4.Image = global::Formulario.Properties.Resources.fireman;
-            this.bombero4.Location = new System.Drawing.Point(13, 225);
+            this.bombero4.Location = new System.Drawing.Point(17, 277);
+            this.bombero4.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.bombero4.Name = "bombero4";
-            this.bombero4.Size = new System.Drawing.Size(64, 64);
+            this.bombero4.Size = new System.Drawing.Size(85, 79);
             this.bombero4.TabIndex = 5;
             this.bombero4.TabStop = false;
             // 
             // btnEnviar2
             // 
-            this.btnEnviar2.Location = new System.Drawing.Point(205, 85);
+            this.btnEnviar2.Location = new System.Drawing.Point(273, 105);
+            this.btnEnviar2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnEnviar2.Name = "btnEnviar2";
-            this.btnEnviar2.Size = new System.Drawing.Size(64, 64);
+            this.btnEnviar2.Size = new System.Drawing.Size(85, 79);
             this.btnEnviar2.TabIndex = 6;
             this.btnEnviar2.Text = "Enviar";
             this.btnEnviar2.UseVisualStyleBackColor = true;
@@ -104,9 +110,10 @@
             // 
             // btnEnviar3
             // 
-            this.btnEnviar3.Location = new System.Drawing.Point(205, 155);
+            this.btnEnviar3.Location = new System.Drawing.Point(273, 191);
+            this.btnEnviar3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnEnviar3.Name = "btnEnviar3";
-            this.btnEnviar3.Size = new System.Drawing.Size(64, 64);
+            this.btnEnviar3.Size = new System.Drawing.Size(85, 79);
             this.btnEnviar3.TabIndex = 7;
             this.btnEnviar3.Text = "Enviar";
             this.btnEnviar3.UseVisualStyleBackColor = true;
@@ -114,9 +121,10 @@
             // 
             // btnEnviar4
             // 
-            this.btnEnviar4.Location = new System.Drawing.Point(205, 225);
+            this.btnEnviar4.Location = new System.Drawing.Point(273, 277);
+            this.btnEnviar4.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnEnviar4.Name = "btnEnviar4";
-            this.btnEnviar4.Size = new System.Drawing.Size(64, 64);
+            this.btnEnviar4.Size = new System.Drawing.Size(85, 79);
             this.btnEnviar4.TabIndex = 8;
             this.btnEnviar4.Text = "Enviar";
             this.btnEnviar4.UseVisualStyleBackColor = true;
@@ -124,45 +132,53 @@
             // 
             // btnReporte4
             // 
-            this.btnReporte4.Location = new System.Drawing.Point(275, 224);
+            this.btnReporte4.Location = new System.Drawing.Point(367, 276);
+            this.btnReporte4.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnReporte4.Name = "btnReporte4";
-            this.btnReporte4.Size = new System.Drawing.Size(64, 64);
+            this.btnReporte4.Size = new System.Drawing.Size(85, 79);
             this.btnReporte4.TabIndex = 16;
             this.btnReporte4.Text = "Reporte";
             this.btnReporte4.UseVisualStyleBackColor = true;
+            this.btnReporte4.Click += new System.EventHandler(this.btnReporte4_Click);
             // 
             // btnReporte3
             // 
-            this.btnReporte3.Location = new System.Drawing.Point(275, 154);
+            this.btnReporte3.Location = new System.Drawing.Point(367, 190);
+            this.btnReporte3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnReporte3.Name = "btnReporte3";
-            this.btnReporte3.Size = new System.Drawing.Size(64, 64);
+            this.btnReporte3.Size = new System.Drawing.Size(85, 79);
             this.btnReporte3.TabIndex = 15;
             this.btnReporte3.Text = "Reporte";
             this.btnReporte3.UseVisualStyleBackColor = true;
+            this.btnReporte3.Click += new System.EventHandler(this.btnReporte3_Click);
             // 
             // btnReporte2
             // 
-            this.btnReporte2.Location = new System.Drawing.Point(275, 84);
+            this.btnReporte2.Location = new System.Drawing.Point(367, 103);
+            this.btnReporte2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnReporte2.Name = "btnReporte2";
-            this.btnReporte2.Size = new System.Drawing.Size(64, 64);
+            this.btnReporte2.Size = new System.Drawing.Size(85, 79);
             this.btnReporte2.TabIndex = 14;
             this.btnReporte2.Text = "Reporte";
             this.btnReporte2.UseVisualStyleBackColor = true;
+            this.btnReporte2.Click += new System.EventHandler(this.btnReporte2_Click);
             // 
             // btnReporte1
             // 
-            this.btnReporte1.Location = new System.Drawing.Point(275, 12);
+            this.btnReporte1.Location = new System.Drawing.Point(367, 15);
+            this.btnReporte1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnReporte1.Name = "btnReporte1";
-            this.btnReporte1.Size = new System.Drawing.Size(64, 64);
+            this.btnReporte1.Size = new System.Drawing.Size(85, 79);
             this.btnReporte1.TabIndex = 13;
             this.btnReporte1.Text = "Reporte";
             this.btnReporte1.UseVisualStyleBackColor = true;
+            this.btnReporte1.Click += new System.EventHandler(this.btnReporte1_Click);
             // 
             // Cuartel
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(366, 303);
+            this.ClientSize = new System.Drawing.Size(488, 373);
             this.Controls.Add(this.btnReporte4);
             this.Controls.Add(this.btnReporte3);
             this.Controls.Add(this.btnReporte2);
@@ -175,10 +191,12 @@
             this.Controls.Add(this.bombero2);
             this.Controls.Add(this.bombero1);
             this.Controls.Add(this.btnEnviar1);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.MaximizeBox = false;
             this.Name = "Cuartel";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Estación de bomberos";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Cuartel_FormClosing);
             this.Load += new System.EventHandler(this.Form_Load);
             ((System.ComponentModel.ISupportInitialize)(this.bombero1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.bombero2)).EndInit();

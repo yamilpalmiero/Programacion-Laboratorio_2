@@ -1,0 +1,6 @@
+E:\Facultad\Programacion-Laboratorio_2\Modelos\SegundoParcial\SP_Bombero\Entidades\bin\Debug\Entidades.dll
+E:\Facultad\Programacion-Laboratorio_2\Modelos\SegundoParcial\SP_Bombero\Entidades\bin\Debug\Entidades.pdb
+E:\Facultad\Programacion-Laboratorio_2\Modelos\SegundoParcial\SP_Bombero\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+E:\Facultad\Programacion-Laboratorio_2\Modelos\SegundoParcial\SP_Bombero\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+E:\Facultad\Programacion-Laboratorio_2\Modelos\SegundoParcial\SP_Bombero\Entidades\obj\Debug\Entidades.dll
+E:\Facultad\Programacion-Laboratorio_2\Modelos\SegundoParcial\SP_Bombero\Entidades\obj\Debug\Entidades.pdb
